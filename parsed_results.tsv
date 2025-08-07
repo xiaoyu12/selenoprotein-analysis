@@ -1,0 +1,623 @@
+Blastx evalue	Query ID	Protein Description	Count	Taxonomy	Tax ID	Rep ID	Target	Chromosome	UGA-SECIS	Free Energy
+9e-44	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_11 Strand: -	635	-24.6
+9e-44	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_77 Strand: +	635	-24.6
+2e-20	lcl|UniRef50_A0A3M1SZ26	Peroxiredoxin	n=1	Tax=Planctomycetes	TaxID=2026780	RepID=A0A3M1SZ26_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_4 Strand: +	541	-12.3
+2e-20	lcl|UniRef50_A0A3M1SZ26	Peroxiredoxin	n=1	Tax=Planctomycetes	TaxID=2026780	RepID=A0A3M1SZ26_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_39 Strand: +	541	-12.3
+2e-20	lcl|UniRef50_A0A3M1SZ26	Peroxiredoxin	n=1	Tax=Planctomycetes	TaxID=2026780	RepID=A0A3M1SZ26_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_72 Strand: +	541	-12.3
+5e-54	lcl|UniRef50_A0A2N2KAM3	Arsenite S-adenosylmethyltransferase	n=8	Tax=Deltaproteobacteria	TaxID=28221	RepID=A0A2N2KAM3_9DELT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_4 Strand: +	544	-28.9
+5e-54	lcl|UniRef50_A0A2N2KAM3	Arsenite S-adenosylmethyltransferase	n=8	Tax=Deltaproteobacteria	TaxID=28221	RepID=A0A2N2KAM3_9DELT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_23 Strand: +	544	-28.9
+6e-16	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_5 Strand: -	304	-17.8
+6e-16	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_91 Strand: -	304	-17.8
+1e-22	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_15 Strand: -	461	-13.7
+6e-06	lcl|UniRef50_A0A523NZD0	AhpC/TSA family protein	n=4	Tax=Bacteria	TaxID=2	RepID=A0A523NZD0_9PROT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_53 Strand: -	553	-24.4
+9e-64	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_34 Strand: +	583	-16.4
+9e-64	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_38 Strand: +	583	-16.4
+5e-05	lcl|UniRef50_A0A523NZD0	AhpC/TSA family protein	n=4	Tax=Bacteria	TaxID=2	RepID=A0A523NZD0_9PROT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_50 Strand: -	565	-23.0
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_15 Strand: +	355	-35.7
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_24 Strand: -	355	-35.7
+5e-81	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_11 Strand: -	672	-31.0
+5e-81	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_67 Strand: -	672	-31.0
+5e-81	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_74 Strand: -	672	-31.0
+5e-81	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_139 Strand: +	672	-31.0
+2e-27	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_91 Strand: -	676	-20.1
+2e-27	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_5 Strand: -	683	-25.2
+6e-24	lcl|UniRef50_A0A6P9C2N6	Glutathione peroxidase	n=13	Tax=Bilateria	TaxID=33213	RepID=A0A6P9C2N6_PANGU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_34 Strand: +	550	-21.5
+6e-24	lcl|UniRef50_A0A6P9C2N6	Glutathione peroxidase	n=13	Tax=Bilateria	TaxID=33213	RepID=A0A6P9C2N6_PANGU	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_38 Strand: +	550	-21.5
+1e-04	lcl|UniRef50_A0A523NZD0	AhpC/TSA family protein	n=4	Tax=Bacteria	TaxID=2	RepID=A0A523NZD0_9PROT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_1 Strand: -	380	-26.2
+1e-04	lcl|UniRef50_A0A523NZD0	AhpC/TSA family protein	n=4	Tax=Bacteria	TaxID=2	RepID=A0A523NZD0_9PROT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_60 Strand: -	380	-26.2
+1e-04	lcl|UniRef50_A0A523NZD0	AhpC/TSA family protein	n=4	Tax=Bacteria	TaxID=2	RepID=A0A523NZD0_9PROT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_61 Strand: -	380	-26.2
+2e-23	lcl|UniRef50_A0A6J0UIJ4	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=13	Tax=Euteleostomi	TaxID=117571	RepID=A0A6J0UIJ4_9SAUR	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_28 Strand: +	544	-22.2
+1e-22	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_84 Strand: +	461	-10.1
+2e-23	lcl|UniRef50_A0A6J0UIJ4	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=13	Tax=Euteleostomi	TaxID=117571	RepID=A0A6J0UIJ4_9SAUR	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_10 Strand: +	552	-27.7
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_65 Strand: -	674	-15.1
+2e-04	lcl|UniRef50_A0A2V7A7P4	Molybdopterin-synthase adenylyltransferase MoeB	n=22	Tax=Bacteria	TaxID=1783234	RepID=A0A2V7A7P4_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_91 Strand: +	155	-21.1
+4e-45	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_10 Strand: +	500	-26.0
+5e-27	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_8 Strand: -	522	-26.2
+1e-18	lcl|UniRef50_C1MH21	Selenoprotein T	n=2	Tax=Eukaryota	TaxID=2759	RepID=C1MH21_MICPC	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_35 Strand: +	647	-21.3
+1e-18	lcl|UniRef50_C1MH21	Selenoprotein T	n=2	Tax=Eukaryota	TaxID=2759	RepID=C1MH21_MICPC	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_37 Strand: -	647	-21.3
+2e-04	lcl|UniRef50_A0A2V7A7P4	Molybdopterin-synthase adenylyltransferase MoeB	n=22	Tax=Bacteria	TaxID=1783234	RepID=A0A2V7A7P4_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_5 Strand: +	155	-20.2
+5e-27	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_11 Strand: -	560	-21.1
+4e-34	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_74 Strand: -	560	-21.1
+4e-45	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_6 Strand: -	500	-25.9
+4e-45	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_187 Strand: +	500	-25.9
+5e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_43 Strand: -	674	-13.3
+5e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_49 Strand: -	674	-13.3
+5e-64	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_41 Strand: -	2707	-12.4
+2e-05	lcl|UniRef50_A8E0R8	Thioredoxin-glutathione reductase	n=6	Tax=Digenea	TaxID=6179	RepID=A8E0R8_FASHE	Chrysochromulina_simplex_var_UIO136.mainGenome.fasta	scaffold_72 Strand: +	2204	-16.67
+2e-28	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_128 Strand: +	96	-23.0
+1e-94	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_101 Strand: -	594	-19.8
+7e-95	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_203 Strand: +	594	-19.8
+4e-45	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_621 Strand: +	568	-21.6
+3e-43	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_901 Strand: -	563	-21.6
+1e-57	lcl|UniRef50_Q9VKY8	Selenide, water dikinase 2	n=57	Tax=Schizophora	TaxID=43738	RepID=SPS2_DROME	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_434 Strand: -	1059	-21.2
+7e-08	lcl|UniRef50_A0A6J1V2X9	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=8	Tax=Amniota	TaxID=32524	RepID=A0A6J1V2X9_9SAUR	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_336 Strand: -	972	-19.3
+5e-13	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_880 Strand: +	976	-13.3
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_328 Strand: +	109	-15.8
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_1365 Strand: -	109	-15.8
+2e-11	lcl|UniRef50_A0A3M1JU74	Thioredoxin-dependent thiol peroxidase	n=1	Tax=Candidatus	TaxID=2026760	RepID=A0A3M1JU74_9BACT	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_121 Strand: +	421	-13.7
+2e-11	lcl|UniRef50_A0A3M1JU74	Thioredoxin-dependent thiol peroxidase	n=1	Tax=Candidatus	TaxID=2026760	RepID=A0A3M1JU74_9BACT	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_573 Strand: +	421	-13.7
+1e-39	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_206 Strand: +	525	-23.1
+5e-44	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_83 Strand: -	525	-18.4
+9e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_41 Strand: +	292	-10.1
+5e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_72 Strand: -	292	-10.1
+1e-21	lcl|UniRef50_A0A2E2Y2X7	Glutathione peroxidase (Fragment)	n=1	Tax=Planctomycetaceae	TaxID=2026779	RepID=A0A2E2Y2X7_9PLAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_56 Strand: -	926	-22.9
+1e-21	lcl|UniRef50_A0A2E2Y2X7	Glutathione peroxidase (Fragment)	n=1	Tax=Planctomycetaceae	TaxID=2026779	RepID=A0A2E2Y2X7_9PLAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_690 Strand: +	926	-22.9
+1e-08	lcl|UniRef50_A8IGQ9	Selenoprotein M2	n=3	Tax=Chlamydomonadales	TaxID=3042	RepID=A8IGQ9_CHLRE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_159 Strand: +	319	-19.9
+7e-31	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_164 Strand: -	214	-21.1
+4e-34	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_445 Strand: -	214	-21.1
+2e-35	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_415 Strand: +	2204	-4.0
+9e-31	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_25 Strand: +	630	-16.9
+8e-30	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_123 Strand: +	630	-16.9
+1e-08	lcl|UniRef50_A8IGQ9	Selenoprotein M2	n=3	Tax=Chlamydomonadales	TaxID=3042	RepID=A8IGQ9_CHLRE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_335 Strand: +	319	-17.0
+4e-53	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_107 Strand: -	438	-22.8
+4e-53	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_244 Strand: +	438	-22.8
+2e-35	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_339 Strand: +	2357	-4.0
+3e-35	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_339 Strand: +	413	-14.7
+3e-35	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_415 Strand: +	413	-14.7
+8e-91	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_147 Strand: -	184	-8.3
+2e-11	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_1326 Strand: -	184	-8.3
+2e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_17 Strand: -	516	-25.7
+2e-11	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_112 Strand: -	438	-32.8
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_15 Strand: -	62	-28.2
+5e-27	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_15 Strand: +	283	-19.4
+1e-30	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_21 Strand: -	111	-26.5
+1e-30	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_22 Strand: -	111	-26.5
+e-115	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_70 Strand: -	82	-26.4
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_23 Strand: -	569	-23.8
+5e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_15 Strand: +	608	-15.9
+7e-29	lcl|UniRef50_F0Y2G1	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y2G1_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_20 Strand: +	552	-24.3
+4e-23	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_10 Strand: -	444	-28.4
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_4 Strand: -	568	-39.8
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_5 Strand: +	568	-39.8
+6e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_42 Strand: -	650	-21.2
+6e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_43 Strand: -	650	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_124 Strand: +	889	-18.1
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_125 Strand: +	889	-18.1
+6e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_44 Strand: -	562	-30.1
+6e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Imantonia_rotunda_var_Eilat_AL_16_RCC4477.mainGenome.fasta	scaffold_45 Strand: -	562	-30.1
+3e-52	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_7 Strand: -	562	-19.7
+6e-64	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_48 Strand: +	1055	-7.7
+1e-15	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_2 Strand: -	303	-18.3
+e-122	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_35 Strand: -	132	-16.9
+3e-28	lcl|UniRef50_UPI0018D65CFA	selenoprotein F-like	n=1	Tax=Patiria	TaxID=46514	RepID=UPI0018D65CFA	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_7 Strand: +	308	-19.3
+5e-64	lcl|UniRef50_A0A3N5MDP1	Methyltransferase domain-containing protein (Fragment)	n=2	Tax=root	TaxID=1	RepID=A0A3N5MDP1_9BACT	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_20 Strand: +	680	-18.7
+4e-27	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_28 Strand: +	335	-20.6
+7e-16	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Pavlova_sp_CC15_RCC_6257.mainGenome.fasta	scaffold_67 Strand: +	971	-12.0
+2e-43	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_6 Strand: -	464	-22.2
+2e-43	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_7 Strand: -	464	-22.2
+1e-43	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_183 Strand: -	464	-22.2
+2e-32	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_6 Strand: +	320	-25.4
+2e-32	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_7 Strand: -	320	-25.4
+1e-36	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_8 Strand: -	426	-32.9
+1e-36	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_103 Strand: +	426	-32.9
+6e-57	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_3 Strand: -	508	-15.7
+6e-57	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_74 Strand: -	508	-15.7
+5e-12	lcl|UniRef50_A0A6J0TRQ8	selenoprotein F	n=14	Tax=Sauria	TaxID=32561	RepID=A0A6J0TRQ8_9SAUR	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_7 Strand: +	283	-18.7
+5e-12	lcl|UniRef50_A0A6J0TRQ8	selenoprotein F	n=14	Tax=Sauria	TaxID=32561	RepID=A0A6J0TRQ8_9SAUR	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_6 Strand: +	281	-14.2
+2e-36	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_8 Strand: +	420	-23.9
+4e-41	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_213 Strand: -	420	-23.9
+e-134	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_6 Strand: -	145	-20.6
+e-134	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_7 Strand: +	145	-20.6
+2e-28	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_44 Strand: +	489	-23.9
+2e-28	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_45 Strand: -	490	-21.2
+4e-06	lcl|UniRef50_A8E0R8	Thioredoxin-glutathione reductase	n=6	Tax=Digenea	TaxID=6179	RepID=A8E0R8_FASHE	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_29 Strand: -	328	-30.4
+4e-06	lcl|UniRef50_A8E0R8	Thioredoxin-glutathione reductase	n=6	Tax=Digenea	TaxID=6179	RepID=A8E0R8_FASHE	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_98 Strand: -	328	-30.4
+2e-27	lcl|UniRef50_A0A1S3H5G1	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3H5G1_LINUN	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_31 Strand: +	397	-11.5
+2e-27	lcl|UniRef50_A0A1S3H5G1	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3H5G1_LINUN	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_35 Strand: -	397	-11.5
+1e-19	lcl|UniRef50_D8LCS4	Selenoprotein W	n=1	Tax=Ectocarpus	TaxID=2880	RepID=D8LCS4_ECTSI	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_16 Strand: -	302	-16.0
+1e-19	lcl|UniRef50_D8LCS4	Selenoprotein W	n=1	Tax=Ectocarpus	TaxID=2880	RepID=D8LCS4_ECTSI	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_17 Strand: -	302	-16.0
+1e-19	lcl|UniRef50_D8LCS4	Selenoprotein W	n=1	Tax=Ectocarpus	TaxID=2880	RepID=D8LCS4_ECTSI	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_18 Strand: -	302	-16.0
+1e-19	lcl|UniRef50_D8LCS4	Selenoprotein W	n=1	Tax=Ectocarpus	TaxID=2880	RepID=D8LCS4_ECTSI	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_19 Strand: -	302	-16.0
+4e-54	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_31 Strand: -	573	-14.8
+4e-54	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta	scaffold_35 Strand: +	573	-14.8
+3e-46	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_424 Strand: -	129	-27.3
+3e-46	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_426 Strand: -	129	-27.3
+3e-15	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_55 Strand: -	502	-29.1
+3e-15	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_59 Strand: -	502	-29.1
+3e-15	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_175 Strand: -	502	-29.1
+4e-12	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1851 Strand: +	652	-27.6
+5e-16	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1421 Strand: +	501	-27.4
+5e-16	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1952 Strand: -	501	-27.4
+5e-16	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3148 Strand: +	502	-27.4
+5e-16	lcl|UniRef50_V5UVG3	Iodothyronine deiodinase (Fragment)	n=6	Tax=Euteleostomi	TaxID=117571	RepID=V5UVG3_PIMPR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3149 Strand: +	502	-27.4
+4e-14	lcl|UniRef50_UPI00106A0858	type I iodothyronine deiodinase-like	n=1	Tax=Dendronephthya	TaxID=151771	RepID=UPI00106A0858	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3081 Strand: +	715	-20.8
+1e-26	lcl|UniRef50_A0A293NCH6	Glutathione peroxidase	n=73	Tax=root	TaxID=1	RepID=A0A293NCH6_9GAMM	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_207 Strand: -	407	-23.4
+1e-26	lcl|UniRef50_A0A293NCH6	Glutathione peroxidase	n=73	Tax=root	TaxID=1	RepID=A0A293NCH6_9GAMM	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_208 Strand: -	407	-23.4
+1e-26	lcl|UniRef50_A0A293NCH6	Glutathione peroxidase	n=73	Tax=root	TaxID=1	RepID=A0A293NCH6_9GAMM	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_265 Strand: +	407	-23.4
+1e-26	lcl|UniRef50_A0A293NCH6	Glutathione peroxidase	n=73	Tax=root	TaxID=1	RepID=A0A293NCH6_9GAMM	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_266 Strand: +	407	-23.4
+3e-51	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_576 Strand: +	737	-33.9
+3e-51	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1906 Strand: +	737	-33.9
+8e-51	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5157 Strand: +	737	-33.9
+8e-51	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5158 Strand: +	737	-33.9
+3e-15	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3230 Strand: +	455	-28.3
+2e-15	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5588 Strand: -	456	-28.3
+9e-05	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_4050 Strand: +	282	-27.0
+9e-05	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_4052 Strand: +	282	-27.0
+9e-05	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_7307 Strand: +	282	-27.0
+9e-05	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_7308 Strand: +	282	-27.0
+3e-34	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_2566 Strand: +	700	-13.7
+3e-34	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_6747 Strand: -	700	-13.7
+6e-10	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_2720 Strand: -	368	-19.5
+6e-10	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_2721 Strand: -	368	-19.5
+6e-10	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_4261 Strand: +	368	-19.5
+6e-10	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_4262 Strand: +	368	-19.5
+2e-16	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_274 Strand: -	677	-20.4
+2e-16	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5037 Strand: +	681	-20.4
+1e-25	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_82 Strand: -	582	-16.6
+1e-25	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_83 Strand: -	582	-16.6
+3e-24	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_2279 Strand: -	582	-16.6
+3e-24	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_2280 Strand: -	582	-16.6
+3e-46	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1622 Strand: -	129	-26.7
+3e-46	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1623 Strand: -	129	-26.7
+2e-06	lcl|UniRef50_Q16881	Thioredoxin reductase 1, cytoplasmic	n=89	Tax=Amniota	TaxID=32524	RepID=TRXR1_HUMAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1494 Strand: -	306	-23.0
+2e-06	lcl|UniRef50_Q16881	Thioredoxin reductase 1, cytoplasmic	n=89	Tax=Amniota	TaxID=32524	RepID=TRXR1_HUMAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1495 Strand: -	306	-23.0
+2e-06	lcl|UniRef50_Q16881	Thioredoxin reductase 1, cytoplasmic	n=89	Tax=Amniota	TaxID=32524	RepID=TRXR1_HUMAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3840 Strand: -	306	-23.0
+2e-06	lcl|UniRef50_Q16881	Thioredoxin reductase 1, cytoplasmic	n=89	Tax=Amniota	TaxID=32524	RepID=TRXR1_HUMAN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_3841 Strand: -	306	-23.0
+6e-06	lcl|UniRef50_A0A496APY7	Selenoprotein	n=2	Tax=Candidatus	TaxID=2026781	RepID=A0A496APY7_9BACT	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_155 Strand: +	321	-32.6
+6e-06	lcl|UniRef50_A0A496APY7	Selenoprotein	n=2	Tax=Candidatus	TaxID=2026781	RepID=A0A496APY7_9BACT	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_359 Strand: +	321	-32.6
+1e-06	lcl|UniRef50_A0A496APY7	Selenoprotein	n=2	Tax=Candidatus	TaxID=2026781	RepID=A0A496APY7_9BACT	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_7533 Strand: -	321	-32.6
+1e-06	lcl|UniRef50_A0A496APY7	Selenoprotein	n=2	Tax=Candidatus	TaxID=2026781	RepID=A0A496APY7_9BACT	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_7534 Strand: -	321	-32.6
+2e-16	lcl|UniRef50_A0A1S3H5G1	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3H5G1_LINUN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_183 Strand: +	614	-16.4
+2e-16	lcl|UniRef50_A0A1S3H5G1	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3H5G1_LINUN	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_4176 Strand: -	614	-16.4
+1e-12	lcl|UniRef50_A0A2N5K1H7	Peroxiredoxin (Fragment)	n=3	Tax=Bacteria	TaxID=2	RepID=A0A2N5K1H7_9CHLR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1112 Strand: -	530	-33.2
+1e-12	lcl|UniRef50_A0A2N5K1H7	Peroxiredoxin (Fragment)	n=3	Tax=Bacteria	TaxID=2	RepID=A0A2N5K1H7_9CHLR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_1113 Strand: -	530	-33.2
+1e-12	lcl|UniRef50_A0A2N5K1H7	Peroxiredoxin (Fragment)	n=3	Tax=Bacteria	TaxID=2	RepID=A0A2N5K1H7_9CHLR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5893 Strand: +	530	-33.2
+1e-12	lcl|UniRef50_A0A2N5K1H7	Peroxiredoxin (Fragment)	n=3	Tax=Bacteria	TaxID=2	RepID=A0A2N5K1H7_9CHLR	Syracosphaera_pulchra_var_2876.mainGenome.fasta	scaffold_5894 Strand: +	530	-33.2
+1e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_72 Strand: -	516	-28.3
+2e-11	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_144 Strand: +	438	-30.2
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_114 Strand: +	62	-28.2
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_125 Strand: -	81	-30.3
+1e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_1 Strand: -	109	-26.5
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_390 Strand: -	442	-26.0
+2e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_116 Strand: +	569	-23.8
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_354 Strand: +	608	-15.9
+7e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_19 Strand: -	476	-22.4
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_320 Strand: +	552	-24.3
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_53 Strand: +	569	-39.8
+3e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_107 Strand: -	357	-24.7
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_565 Strand: -	619	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_339 Strand: -	863	-18.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_Malina_E25_N2_P19_B4_RC2298.mainGenome.fasta	scaffold_6 Strand: -	563	-26.7
+1e-22	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_5 Strand: +	108	-32.1
+1e-22	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_151 Strand: -	108	-32.1
+4e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_117 Strand: -	452	-20.4
+4e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_121 Strand: -	452	-20.4
+5e-36	lcl|UniRef50_F0YD35	Selenoprotein	n=3	Tax=Stramenopiles	TaxID=33634	RepID=F0YD35_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_22 Strand: -	561	-23.9
+5e-36	lcl|UniRef50_F0YD35	Selenoprotein	n=3	Tax=Stramenopiles	TaxID=33634	RepID=F0YD35_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_400 Strand: +	561	-23.9
+3e-19	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_30 Strand: -	259	-15.9
+3e-19	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_270 Strand: -	259	-15.9
+1e-26	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_1 Strand: -	192	-16.6
+1e-26	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_50 Strand: -	192	-16.6
+1e-26	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_144 Strand: +	192	-16.6
+1e-16	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_23 Strand: -	746	-13.7
+5e-17	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_163 Strand: -	743	-13.7
+4e-21	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_75 Strand: +	484	-11.9
+7e-21	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_140 Strand: +	484	-11.9
+8e-62	lcl|UniRef50_F0YBQ6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YBQ6_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_40 Strand: -	2310	-25.6
+1e-61	lcl|UniRef50_F0YBQ6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YBQ6_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_349 Strand: -	2309	-24.3
+5e-19	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_9 Strand: -	618	-18.4
+3e-16	lcl|UniRef50_A0SWW1	Glutathione peroxidase	n=3	Tax=Protostomia	TaxID=33317	RepID=A0SWW1_CLOSI	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_507 Strand: -	621	-18.4
+1e-25	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_4 Strand: -	418	-19.8
+1e-25	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_268 Strand: +	418	-19.8
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_16 Strand: -	450	-20.5
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_169 Strand: +	450	-20.5
+3e-33	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_155 Strand: -	435	-23.2
+3e-33	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_156 Strand: -	435	-23.2
+4e-07	lcl|UniRef50_Q86VQ6	Thioredoxin reductase 3	n=57	Tax=Boreoeutheria	TaxID=1437010	RepID=TRXR3_HUMAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_24 Strand: -	392	-21.8
+4e-07	lcl|UniRef50_Q86VQ6	Thioredoxin reductase 3	n=57	Tax=Boreoeutheria	TaxID=1437010	RepID=TRXR3_HUMAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_213 Strand: +	392	-21.8
+8e-70	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_30 Strand: -	593	-18.0
+8e-70	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_276 Strand: +	593	-18.0
+2e-34	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_100 Strand: -	755	-8.9
+2e-34	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Umbilicosphaera_foliosa_var_2878_1_1.mainGenome.fasta	scaffold_123 Strand: +	755	-8.9
+2e-15	lcl|UniRef50_A0A521KCN5	Peroxiredoxin	n=2	Tax=Planctomycetes	TaxID=2026780	RepID=A0A521KCN5_9BACT	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_20 Strand: -	357	-34.4
+2e-10	lcl|UniRef50_D8TMK2	Membrane selenoprotein	n=1	Tax=Volvox	TaxID=3068	RepID=D8TMK2_VOLCA	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_235 Strand: +	1530	-24.1
+2e-57	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_35 Strand: -	384	-16.1
+5e-35	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_72 Strand: +	493	-31.5
+2e-38	lcl|UniRef50_A0A6P8HZM0	Glutathione peroxidase	n=5	Tax=Hexacorallia	TaxID=6102	RepID=A0A6P8HZM0_ACTTE	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_51 Strand: -	644	-28.5
+6e-18	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_5 Strand: -	723	-17.0
+2e-90	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_12 Strand: +	247	-32.8
+2e-21	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_446 Strand: +	772	-32.8
+4e-23	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_22 Strand: +	358	-25.9
+2e-29	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_4 Strand: +	602	-18.3
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_26 Strand: +	152	-27.0
+9e-25	lcl|UniRef50_A0SWW1	Glutathione peroxidase	n=3	Tax=Protostomia	TaxID=33317	RepID=A0SWW1_CLOSI	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_74 Strand: -	447	-26.8
+9e-40	lcl|UniRef50_F0Y0W6	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y0W6_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_22 Strand: -	526	-15.8
+1e-87	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_29 Strand: +	680	-21.9
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_26 Strand: +	1071	-13.6
+1e-25	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Isochrysis_sp_Dm2.mainGenome.fasta	scaffold_64 Strand: +	849	-22.4
+3e-38	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_54 Strand: -	517	-21.7
+7e-34	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_43 Strand: -	272	-24.1
+2e-40	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_73 Strand: +	269	-23.6
+4e-15	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_4 Strand: +	605	-21.5
+7e-32	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_20 Strand: +	807	-24.7
+1e-32	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_24 Strand: +	277	-21.3
+3e-34	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_27 Strand: -	726	-16.3
+9e-18	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_22 Strand: -	412	-21.0
+1e-27	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_19 Strand: +	236	-6.6
+1e-59	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_43 Strand: -	592	-26.1
+5e-31	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Corisphaera_gracilis_var_Kamptner_NIES_2369.mainGenome.fasta	scaffold_66 Strand: -	485	-27.7
+7e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_735 Strand: +	274	-29.5
+2e-25	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3744 Strand: -	274	-29.5
+9e-32	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_31 Strand: -	784	-15.4
+9e-32	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_101 Strand: -	784	-15.4
+3e-12	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_4377 Strand: -	190	-26.6
+2e-32	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_5967 Strand: -	140	-30.5
+3e-26	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_665 Strand: -	492	-9.6
+2e-22	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_695 Strand: -	486	-27.5
+2e-23	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_4072 Strand: +	486	-27.5
+2e-24	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_75 Strand: +	392	-17.9
+2e-26	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1107 Strand: -	449	-15.3
+5e-15	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_2791 Strand: -	632	-13.0
+1e-92	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1984 Strand: +	280	-9.1
+1e-92	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_2716 Strand: -	280	-9.1
+1e-10	lcl|UniRef50_Q86VQ6	Thioredoxin reductase 3	n=57	Tax=Boreoeutheria	TaxID=1437010	RepID=TRXR3_HUMAN	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_474 Strand: -	278	-22.0
+9e-08	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1863 Strand: +	741	-21.3
+9e-08	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3924 Strand: +	741	-21.3
+2e-28	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_897 Strand: -	701	-21.6
+8e-05	lcl|UniRef50_A0A1U7QT60	LOW QUALITY PROTEIN: sperm mitochondrial-associated cysteine-rich protein	n=7	Tax=Cricetidae	TaxID=337677	RepID=A0A1U7QT60_MESAU	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_2842 Strand: +	2425	-8.1
+5e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Calcidiscus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3744 Strand: -	2911	-12.1
+6e-25	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_2165 Strand: -	997	-36.3
+6e-09	lcl|UniRef50_A0A145P6R4	Glutathione peroxidase (Fragment)	n=15	Tax=Eukaryota	TaxID=2759	RepID=A0A145P6R4_PORTR	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_2608 Strand: +	1696	-29.7
+4e-29	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_1405 Strand: -	95	-22.1
+4e-29	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_1406 Strand: -	95	-22.1
+2e-08	lcl|UniRef50_UPI0014946D6E	phospholipid hydroperoxide glutathione peroxidase	n=1	Tax=Ailuropoda	TaxID=9646	RepID=UPI0014946D6E	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_163 Strand: +	2085	-21.2
+2e-32	lcl|UniRef50_F0Y0W6	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y0W6_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_2341 Strand: -	446	-27.2
+2e-22	lcl|UniRef50_F0Y2G1	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y2G1_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_374 Strand: -	492	-30.5
+2e-22	lcl|UniRef50_F0Y2G1	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y2G1_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_375 Strand: -	492	-30.5
+1e-36	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_843 Strand: +	538	-24.7
+5e-17	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_1405 Strand: -	2492	-64.9
+5e-17	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5270.mainGenome.fasta	scaffold_1406 Strand: -	2492	-64.9
+3e-15	lcl|UniRef50_F0YBL6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YBL6_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_383 Strand: -	624	-24.4
+1e-30	lcl|UniRef50_Q643Y7	Glutathione peroxidase	n=8	Tax=Digenea	TaxID=6179	RepID=Q643Y7_SCHMA	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_167 Strand: +	580	-29.0
+9e-29	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_13 Strand: -	447	-29.4
+1e-16	lcl|UniRef50_P83564	Glutathione peroxidase 1, mitochondrial	n=2	Tax=Chlamydomonas	TaxID=3055	RepID=GPX1_CHLRE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_142 Strand: +	459	-32.4
+5e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_37 Strand: -	290	-21.3
+2e-43	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_78 Strand: -	636	-20.7
+2e-19	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_3 Strand: -	80	-20.4
+7e-54	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_287 Strand: +	542	-17.7
+7e-54	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_288 Strand: +	542	-17.7
+2e-46	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_46 Strand: +	493	-21.5
+6e-12	lcl|UniRef50_V5UX97	Iodothyronine deiodinase (Fragment)	n=3	Tax=Cyprinoidei	TaxID=30727	RepID=V5UX97_PIMPR	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_257 Strand: -	426	-16.6
+6e-12	lcl|UniRef50_V5UX97	Iodothyronine deiodinase (Fragment)	n=3	Tax=Cyprinoidei	TaxID=30727	RepID=V5UX97_PIMPR	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_258 Strand: -	426	-16.6
+9e-24	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_57 Strand: +	464	-17.4
+1e-12	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_39 Strand: -	287	-25.0
+1e-27	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_74 Strand: +	594	-22.5
+2e-09	lcl|UniRef50_A0A6J1V2X9	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=8	Tax=Amniota	TaxID=32524	RepID=A0A6J1V2X9_9SAUR	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_415 Strand: +	510	-10.7
+1e-31	lcl|UniRef50_F0XWF1	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0XWF1_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_438 Strand: -	210	-30.1
+1e-31	lcl|UniRef50_F0XWF1	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0XWF1_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_439 Strand: -	210	-30.1
+2e-29	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_71 Strand: +	522	-25.1
+1e-43	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_40 Strand: -	589	-31.0
+3e-40	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_100 Strand: -	424	-21.1
+3e-40	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_15 Strand: -	463	-31.9
+e-174	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_77 Strand: -	225	-14.0
+3e-33	lcl|UniRef50_F0YA04	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YA04_AURAN	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_50 Strand: +	510	-22.1
+7e-62	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_105 Strand: -	564	-24.2
+3e-15	lcl|UniRef50_A0A3N5YFB3	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Desulfobacteraceae	TaxID=2049433	RepID=A0A3N5YFB3_9DELT	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_43 Strand: -	698	-16.3
+3e-15	lcl|UniRef50_A0A3N5YFB3	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Desulfobacteraceae	TaxID=2049433	RepID=A0A3N5YFB3_9DELT	Chrysochromulina_leadbeateri_var_UIO393.mainGenome.fasta	scaffold_45 Strand: -	698	-16.3
+6e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_6 Strand: -	516	-28.3
+2e-10	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_235 Strand: -	438	-32.8
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_12 Strand: +	62	-28.2
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_67 Strand: +	81	-30.3
+1e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_1 Strand: +	109	-26.5
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_38 Strand: +	442	-26.0
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_511 Strand: +	569	-23.8
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_132 Strand: +	608	-15.9
+7e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_44 Strand: +	476	-22.4
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_373 Strand: +	552	-24.3
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_32 Strand: +	569	-39.8
+3e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_90 Strand: +	357	-24.7
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_472 Strand: -	622	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_309 Strand: -	863	-18.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_MicroPolar_03_F24PG5_RCC4501.mainGenome.fasta	scaffold_4 Strand: +	563	-26.7
+6e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_5 Strand: +	516	-28.3
+2e-11	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_23 Strand: -	438	-32.8
+2e-11	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_58 Strand: -	438	-32.8
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_3 Strand: -	62	-28.2
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_6 Strand: -	62	-28.2
+e-115	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_13 Strand: -	82	-29.3
+e-115	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_14 Strand: +	82	-29.3
+5e-27	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_3 Strand: +	283	-19.4
+5e-27	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_6 Strand: +	283	-19.4
+3e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_4 Strand: -	109	-26.5
+3e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_31 Strand: -	109	-26.5
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_26 Strand: -	569	-23.8
+2e-13	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_3 Strand: +	608	-15.9
+2e-13	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_6 Strand: +	608	-15.9
+3e-26	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_18 Strand: -	552	-24.3
+4e-23	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_1 Strand: -	444	-28.4
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_7 Strand: +	569	-39.8
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_61 Strand: +	641	-21.2
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_62 Strand: +	641	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_64 Strand: -	902	-18.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_11 Strand: +	562	-30.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_RCC704.mainGenome.fasta	scaffold_12 Strand: +	562	-30.1
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_275 Strand: +	260	-29.2
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_300 Strand: +	260	-29.2
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_117 Strand: +	263	-24.5
+4e-12	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_118 Strand: +	263	-24.5
+6e-34	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_33 Strand: -	440	-39.9
+6e-34	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_51 Strand: -	440	-39.9
+6e-34	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_269 Strand: -	440	-39.9
+1e-20	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_107 Strand: -	409	-25.2
+1e-20	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_350 Strand: -	409	-25.2
+3e-28	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_13 Strand: -	59	-20.2
+3e-28	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_24 Strand: +	59	-20.2
+3e-28	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_54 Strand: +	59	-20.2
+1e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_48 Strand: +	225	-37.0
+1e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_50 Strand: +	225	-37.0
+2e-46	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_3 Strand: -	546	-26.6
+2e-46	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_31 Strand: -	546	-26.6
+2e-46	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_798 Strand: -	540	-26.6
+2e-46	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_799 Strand: -	540	-26.6
+1e-11	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_110 Strand: -	258	-33.7
+1e-11	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_138 Strand: -	258	-33.7
+e-128	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_34 Strand: +	137	-22.8
+e-128	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_157 Strand: +	137	-22.8
+e-128	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_212 Strand: +	137	-22.8
+e-128	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_213 Strand: +	137	-22.8
+7e-37	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_272 Strand: -	1564	-18.5
+7e-37	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_273 Strand: -	1564	-18.5
+1e-15	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_158 Strand: -	520	-15.7
+1e-15	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_163 Strand: -	520	-15.7
+5e-35	lcl|UniRef50_F0Y491	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y491_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_29 Strand: -	460	-13.7
+5e-35	lcl|UniRef50_F0Y491	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y491_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_37 Strand: +	460	-13.7
+7e-37	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_40 Strand: +	1564	-19.5
+9e-37	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_40 Strand: +	577	-21.4
+9e-37	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_141 Strand: +	577	-21.4
+9e-37	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_142 Strand: +	577	-21.4
+9e-37	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Ochrosphaera_ochrosphaera_sp_CCMP3194.mainGenome.fasta	scaffold_387 Strand: +	577	-21.4
+9e-18	lcl|UniRef50_F0YA04	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YA04_AURAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_43 Strand: +	452	-14.4
+1e-48	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_19 Strand: +	71	-21.7
+3e-18	lcl|UniRef50_A0A145P6R4	Glutathione peroxidase (Fragment)	n=15	Tax=Eukaryota	TaxID=2759	RepID=A0A145P6R4_PORTR	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_21 Strand: -	876	-31.3
+4e-76	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_83 Strand: +	113	-34.5
+3e-43	lcl|UniRef50_A0A7C1HP91	Arsenite methyltransferase	n=4	Tax=Desulfonatronum	TaxID=66848	RepID=A0A7C1HP91_9DELT	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_271 Strand: +	627	-17.3
+6e-30	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_349 Strand: +	293	-26.8
+1e-12	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_149 Strand: +	284	-22.9
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_128 Strand: -	118	-16.3
+3e-43	lcl|UniRef50_A0A7C1HP91	Arsenite methyltransferase	n=4	Tax=Desulfonatronum	TaxID=66848	RepID=A0A7C1HP91_9DELT	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_271 Strand: +	901	-12.5
+4e-32	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_358 Strand: +	497	-25.1
+3e-09	lcl|UniRef50_Q2QEI3	Type I iodothyronine deiodinase	n=8	Tax=Amphibia	TaxID=8292	RepID=IOD1_XENLA	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_63 Strand: +	472	-13.1
+4e-24	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_26 Strand: -	418	-10.8
+3e-55	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_75 Strand: +	687	-28.4
+5e-75	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_152 Strand: -	119	-32.1
+1e-42	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_339 Strand: +	464	-20.6
+2e-23	lcl|UniRef50_A0A1R2BPT3	Glutathione peroxidase	n=2	Tax=Stentor	TaxID=5963	RepID=A0A1R2BPT3_9CILI	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_73 Strand: -	438	-25.0
+1e-38	lcl|UniRef50_F0Y491	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y491_AURAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_465 Strand: -	472	-20.7
+2e-33	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_110 Strand: -	436	-21.2
+5e-22	lcl|UniRef50_F0Y2G1	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y2G1_AURAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_528 Strand: -	452	-23.2
+4e-39	lcl|UniRef50_P07203	Glutathione peroxidase 1	n=556	Tax=cellular	TaxID=131567	RepID=GPX1_HUMAN	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_1 Strand: -	530	-16.8
+9e-24	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Prymnesium_kappa_var_UIO034.mainGenome.fasta	scaffold_231 Strand: -	1566	-15.9
+2e-28	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_128 Strand: +	96	-23.0
+1e-94	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_101 Strand: -	594	-19.8
+7e-95	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_203 Strand: +	594	-19.8
+4e-45	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_621 Strand: +	568	-21.6
+3e-43	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_901 Strand: -	563	-21.6
+1e-57	lcl|UniRef50_Q9VKY8	Selenide, water dikinase 2	n=57	Tax=Schizophora	TaxID=43738	RepID=SPS2_DROME	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_434 Strand: -	1059	-21.2
+7e-08	lcl|UniRef50_A0A6J1V2X9	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=8	Tax=Amniota	TaxID=32524	RepID=A0A6J1V2X9_9SAUR	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_336 Strand: -	972	-19.3
+5e-13	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_880 Strand: +	976	-13.3
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_328 Strand: +	109	-15.8
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_1365 Strand: -	109	-15.8
+2e-11	lcl|UniRef50_A0A3M1JU74	Thioredoxin-dependent thiol peroxidase	n=1	Tax=Candidatus	TaxID=2026760	RepID=A0A3M1JU74_9BACT	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_121 Strand: +	421	-13.7
+2e-11	lcl|UniRef50_A0A3M1JU74	Thioredoxin-dependent thiol peroxidase	n=1	Tax=Candidatus	TaxID=2026760	RepID=A0A3M1JU74_9BACT	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_573 Strand: +	421	-13.7
+1e-39	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_206 Strand: +	525	-23.1
+5e-44	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_83 Strand: -	525	-18.4
+9e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_41 Strand: +	292	-10.1
+5e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_72 Strand: -	292	-10.1
+1e-21	lcl|UniRef50_A0A2E2Y2X7	Glutathione peroxidase (Fragment)	n=1	Tax=Planctomycetaceae	TaxID=2026779	RepID=A0A2E2Y2X7_9PLAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_56 Strand: -	926	-22.9
+1e-21	lcl|UniRef50_A0A2E2Y2X7	Glutathione peroxidase (Fragment)	n=1	Tax=Planctomycetaceae	TaxID=2026779	RepID=A0A2E2Y2X7_9PLAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_690 Strand: +	926	-22.9
+1e-08	lcl|UniRef50_A8IGQ9	Selenoprotein M2	n=3	Tax=Chlamydomonadales	TaxID=3042	RepID=A8IGQ9_CHLRE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_159 Strand: +	319	-19.9
+7e-31	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_164 Strand: -	214	-21.1
+4e-34	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_445 Strand: -	214	-21.1
+2e-35	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_415 Strand: +	2204	-4.0
+9e-31	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_25 Strand: +	630	-16.9
+8e-30	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_123 Strand: +	630	-16.9
+1e-08	lcl|UniRef50_A8IGQ9	Selenoprotein M2	n=3	Tax=Chlamydomonadales	TaxID=3042	RepID=A8IGQ9_CHLRE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_335 Strand: +	319	-17.0
+4e-53	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_107 Strand: -	438	-22.8
+4e-53	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_244 Strand: +	438	-22.8
+2e-35	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_339 Strand: +	2357	-4.0
+3e-35	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_339 Strand: +	413	-14.7
+3e-35	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_415 Strand: +	413	-14.7
+8e-91	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_147 Strand: -	184	-8.3
+2e-11	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Prymnesium_platychrysis_sp_CCMP1217.mainGenome.fasta	scaffold_1326 Strand: -	184	-8.3
+4e-21	lcl|UniRef50_O60613	Selenoprotein F	n=294	Tax=Deuterostomia	TaxID=33511	RepID=SEP15_HUMAN	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_74 Strand: -	277	-10.8
+7e-17	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_7 Strand: +	272	-21.9
+3e-11	lcl|UniRef50_D8TMK2	Membrane selenoprotein	n=1	Tax=Volvox	TaxID=3068	RepID=D8TMK2_VOLCA	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_119 Strand: +	1247	-24.5
+3e-38	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_1 Strand: -	244	-30.6
+3e-38	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_67 Strand: +	244	-30.6
+2e-63	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_7 Strand: -	476	-26.1
+2e-63	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_32 Strand: +	476	-26.1
+5e-17	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_32 Strand: -	272	-22.2
+2e-38	lcl|UniRef50_A0SWW1	Glutathione peroxidase	n=3	Tax=Protostomia	TaxID=33317	RepID=A0SWW1_CLOSI	Pavlova_sp_Sipadan_M1_2_RCC_2550.mainGenome.fasta	scaffold_24 Strand: +	1199	-7.4
+1e-11	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Emihu1_scaffold.fa	scaffold_79 Strand: -	259	-30.3
+3e-12	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Emihu1_scaffold.fa	scaffold_8378 Strand: -	259	-30.3
+2e-38	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Emihu1_scaffold.fa	scaffold_59 Strand: -	441	-38.1
+4e-39	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Emihu1_scaffold.fa	scaffold_4 Strand: +	441	-36.2
+5e-10	lcl|UniRef50_F0Y0W6	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y0W6_AURAN	Emihu1_scaffold.fa	scaffold_88 Strand: +	1373	-29.6
+6e-33	lcl|UniRef50_W5U368	Glutathione peroxidase 1 (Fragment)	n=3	Tax=Amniota	TaxID=32524	RepID=W5U368_9AVES	Emihu1_scaffold.fa	scaffold_3 Strand: +	751	-29.5
+e-128	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Emihu1_scaffold.fa	scaffold_97 Strand: -	137	-33.7
+3e-37	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Emihu1_scaffold.fa	scaffold_120 Strand: -	59	-20.2
+9e-13	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Emihu1_scaffold.fa	scaffold_3701 Strand: +	59	-20.2
+3e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Emihu1_scaffold.fa	scaffold_175 Strand: +	223	-28.7
+3e-27	lcl|UniRef50_F0Y4K6	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y4K6_AURAN	Emihu1_scaffold.fa	scaffold_248 Strand: -	223	-28.7
+2e-45	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Emihu1_scaffold.fa	scaffold_12 Strand: +	621	-20.1
+3e-39	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Emihu1_scaffold.fa	scaffold_10 Strand: -	562	-20.6
+9e-20	lcl|UniRef50_A0A6P9C2N6	Glutathione peroxidase	n=13	Tax=Bilateria	TaxID=33213	RepID=A0A6P9C2N6_PANGU	Emihu1_scaffold.fa	scaffold_130 Strand: +	415	-35.7
+9e-20	lcl|UniRef50_A0A6P9C2N6	Glutathione peroxidase	n=13	Tax=Bilateria	TaxID=33213	RepID=A0A6P9C2N6_PANGU	Emihu1_scaffold.fa	scaffold_264 Strand: +	415	-35.7
+3e-39	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Emihu1_scaffold.fa	scaffold_406 Strand: +	568	-23.3
+2e-15	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Emihu1_scaffold.fa	scaffold_164 Strand: +	515	-16.2
+2e-15	lcl|UniRef50_A0A1S3J7B4	Iodothyronine deiodinase	n=2	Tax=Lingula	TaxID=7574	RepID=A0A1S3J7B4_LINUN	Emihu1_scaffold.fa	scaffold_253 Strand: -	515	-16.2
+4e-30	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_555 Strand: +	669	-29.0
+4e-30	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_768 Strand: +	669	-29.0
+1e-20	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_1064 Strand: -	562	-18.3
+1e-20	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_1065 Strand: -	562	-18.3
+6e-45	lcl|UniRef50_F0XWF1	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0XWF1_AURAN	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_792 Strand: +	221	-11.3
+6e-45	lcl|UniRef50_F0XWF1	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0XWF1_AURAN	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_793 Strand: +	221	-11.3
+2e-28	lcl|UniRef50_C1MP63	Glutathione peroxidase	n=3	Tax=Micromonas	TaxID=38832	RepID=C1MP63_MICPC	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_93 Strand: +	408	-21.1
+2e-28	lcl|UniRef50_C1MP63	Glutathione peroxidase	n=3	Tax=Micromonas	TaxID=38832	RepID=C1MP63_MICPC	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_105 Strand: +	408	-21.1
+5e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_316 Strand: -	438	-18.3
+5e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_317 Strand: -	438	-18.3
+e-103	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_261 Strand: -	290	-14.8
+e-103	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_297 Strand: -	290	-14.8
+2e-52	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_560 Strand: -	853	-17.9
+2e-52	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_561 Strand: -	853	-17.9
+1e-29	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_72 Strand: +	678	-23.8
+1e-29	lcl|UniRef50_A0A6J1VY73	Glutathione peroxidase	n=4	Tax=Bilateria	TaxID=33213	RepID=A0A6J1VY73_9SAUR	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_73 Strand: +	678	-23.8
+4e-63	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_75 Strand: +	689	-25.8
+4e-63	lcl|UniRef50_A0A6P4ZHE4	Glutathione peroxidase	n=11	Tax=Eumetazoa	TaxID=6072	RepID=A0A6P4ZHE4_BRABE	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_76 Strand: +	689	-25.8
+5e-29	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_37 Strand: +	447	-15.1
+5e-29	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_38 Strand: +	447	-15.1
+5e-29	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_1831 Strand: -	447	-15.1
+2e-52	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_560 Strand: -	2458	-12.3
+2e-52	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Hymenomonas_coronata_var_Mills_NIES_1016.mainGenome.fasta	scaffold_561 Strand: -	2458	-12.3
+2e-34	lcl|UniRef50_A0A145P6R4	Glutathione peroxidase (Fragment)	n=15	Tax=Eukaryota	TaxID=2759	RepID=A0A145P6R4_PORTR	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_75 Strand: +	874	-27.0
+e-135	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_817 Strand: -	167	-21.7
+9e-47	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_38 Strand: -	520	-25.1
+6e-70	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_2106 Strand: +	617	-23.6
+9e-70	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_804 Strand: +	628	-25.4
+1e-20	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_479 Strand: -	443	-13.4
+1e-14	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_128 Strand: +	247	-32.0
+1e-14	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_128 Strand: +	247	-32.0
+1e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_758 Strand: +	290	-17.0
+3e-04	lcl|UniRef50_A0A1U7QT60	LOW QUALITY PROTEIN: sperm mitochondrial-associated cysteine-rich protein	n=7	Tax=Cricetidae	TaxID=337677	RepID=A0A1U7QT60_MESAU	Prymnesium_polylepis_var_UIO040.mainGenome.fasta	scaffold_353 Strand: -	2270	-27.7
+7e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_734 Strand: +	274	-29.5
+2e-25	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3704 Strand: -	274	-29.5
+9e-32	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_31 Strand: -	784	-15.4
+9e-32	lcl|UniRef50_A0A6P7TGF8	Glutathione peroxidase	n=7	Tax=Protostomia	TaxID=33317	RepID=A0A6P7TGF8_OCTVU	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_101 Strand: -	784	-15.4
+3e-12	lcl|UniRef50_C1MRX5	Selenoprotein	n=1	Tax=Micromonas	TaxID=564608	RepID=C1MRX5_MICPC	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_4313 Strand: -	190	-26.6
+3e-26	lcl|UniRef50_Q00277	Glutathione peroxidase	n=11	Tax=Schistosomatidae	TaxID=31245	RepID=GPX1_SCHMA	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_664 Strand: -	492	-9.6
+2e-22	lcl|UniRef50_A0A6P7TLX9	Glutathione peroxidase	n=4	Tax=Octopus	TaxID=6643	RepID=A0A6P7TLX9_OCTVU	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_694 Strand: -	486	-27.5
+2e-24	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_75 Strand: +	392	-17.9
+2e-26	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1106 Strand: -	449	-15.3
+5e-08	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_6662 Strand: +	632	-13.0
+1e-92	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1977 Strand: +	280	-9.1
+1e-92	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_2699 Strand: -	280	-9.1
+1e-10	lcl|UniRef50_Q86VQ6	Thioredoxin reductase 3	n=57	Tax=Boreoeutheria	TaxID=1437010	RepID=TRXR3_HUMAN	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_474 Strand: -	278	-22.0
+9e-08	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_1859 Strand: +	741	-21.3
+9e-08	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3879 Strand: +	741	-21.3
+5e-24	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Coccolithus_leptoporus_var_RCC1130.mainGenome.fasta	scaffold_3704 Strand: -	2911	-12.1
+1e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_60 Strand: +	516	-28.3
+1e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_263 Strand: +	516	-28.3
+2e-11	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_69 Strand: -	438	-32.8
+2e-10	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_321 Strand: +	438	-32.8
+2e-10	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_328 Strand: +	438	-32.8
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_7 Strand: +	62	-28.2
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_8 Strand: +	62	-28.2
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_1 Strand: -	81	-30.3
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_3 Strand: +	81	-30.3
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_8 Strand: -	81	-30.3
+1e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_12 Strand: -	109	-26.5
+1e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_59 Strand: -	109	-26.5
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_243 Strand: +	442	-26.3
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_339 Strand: +	442	-26.3
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_6 Strand: -	442	-26.0
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_19 Strand: +	569	-23.8
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_8 Strand: -	608	-15.9
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_288 Strand: +	608	-15.9
+5e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_29 Strand: -	476	-22.4
+7e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_58 Strand: -	476	-22.4
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_309 Strand: +	552	-24.3
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_310 Strand: +	552	-24.3
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_459 Strand: -	552	-24.3
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_460 Strand: -	552	-24.3
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_23 Strand: +	569	-39.8
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_422 Strand: +	569	-39.8
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_464 Strand: +	569	-39.8
+3e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_10 Strand: -	357	-24.7
+3e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_37 Strand: +	357	-24.7
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_73 Strand: +	618	-21.2
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_539 Strand: +	621	-21.2
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_540 Strand: +	621	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_375 Strand: -	865	-18.1
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_395 Strand: -	863	-18.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_71 Strand: +	563	-23.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Imantonia_sp_RCC4780.mainGenome.fasta	scaffold_44 Strand: +	563	-26.7
+9e-21	lcl|UniRef50_O60613	Selenoprotein F	n=294	Tax=Deuterostomia	TaxID=33511	RepID=SEP15_HUMAN	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_4 Strand: -	277	-10.8
+7e-17	lcl|UniRef50_F0YJ25	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YJ25_AURAN	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_5 Strand: +	272	-21.9
+3e-11	lcl|UniRef50_D8TMK2	Membrane selenoprotein	n=1	Tax=Volvox	TaxID=3068	RepID=D8TMK2_VOLCA	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_35 Strand: -	1246	-24.5
+3e-38	lcl|UniRef50_F0YB84	Selenoprotein (Fragment)	n=2	Tax=Aureococcus	TaxID=44056	RepID=F0YB84_AURAN	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_4 Strand: +	244	-30.6
+2e-63	lcl|UniRef50_C1MNW8	Glutaredoxin-dependent peroxiredoxin	n=12	Tax=Eukaryota	TaxID=2759	RepID=C1MNW8_MICPC	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_5 Strand: -	476	-26.1
+2e-38	lcl|UniRef50_A0SWW1	Glutathione peroxidase	n=3	Tax=Protostomia	TaxID=33317	RepID=A0SWW1_CLOSI	Pavlova_sp_BMAK269_RCC_5622.mainGenome.fasta	scaffold_27 Strand: -	1183	-7.4
+1e-30	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_21 Strand: -	111	-26.5
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_23 Strand: -	569	-23.8
+4e-23	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_10 Strand: -	444	-28.4
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_4 Strand: -	568	-39.8
+6e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_43 Strand: -	650	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_125 Strand: +	889	-18.1
+6e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_Eilat_AL_16_RC4477.mainGenome.fasta	scaffold_44 Strand: -	562	-30.1
+6e-25	lcl|UniRef50_A0A1J0KJL1	Glutathione peroxidase (Fragment)	n=1	Tax=Symbiodinium	TaxID=329482	RepID=A0A1J0KJL1_9DINO	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_1344 Strand: -	997	-36.3
+2e-16	lcl|UniRef50_A0A3N5MDP1	Methyltransferase domain-containing protein (Fragment)	n=2	Tax=root	TaxID=1	RepID=A0A3N5MDP1_9BACT	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_3491 Strand: -	1135	-24.0
+4e-05	lcl|UniRef50_A0A6J1V2X9	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes	n=8	Tax=Amniota	TaxID=32524	RepID=A0A6J1V2X9_9SAUR	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_310 Strand: +	2240	-25.0
+6e-09	lcl|UniRef50_A0A145P6R4	Glutathione peroxidase (Fragment)	n=15	Tax=Eukaryota	TaxID=2759	RepID=A0A145P6R4_PORTR	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_178 Strand: +	1696	-29.7
+4e-29	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_1351 Strand: -	95	-22.1
+2e-08	lcl|UniRef50_UPI0014946D6E	phospholipid hydroperoxide glutathione peroxidase	n=1	Tax=Ailuropoda	TaxID=9646	RepID=UPI0014946D6E	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_1121 Strand: +	2085	-21.2
+2e-32	lcl|UniRef50_F0Y0W6	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y0W6_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_4550 Strand: -	446	-27.2
+2e-22	lcl|UniRef50_F0Y2G1	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0Y2G1_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_554 Strand: -	492	-30.5
+1e-36	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_250 Strand: +	538	-24.7
+5e-17	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Pseudohaptolina_sorokinii_var_GE_PG_IC_SORT_272_RCC5268.mainGenome.fasta	scaffold_1351 Strand: -	2492	-64.9
+2e-19	lcl|UniRef50_P36968	Phospholipid hydroperoxide glutathione peroxidase	n=93	Tax=Theria	TaxID=32525	RepID=GPX4_PIG	Ruttnera_lamellosa_var_CCMP3415.mainGenome.fasta	scaffold_36 Strand: -	953	-22.8
+1e-36	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1095 Strand: +	559	-23.3
+1e-36	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1185 Strand: -	559	-23.3
+1e-36	lcl|UniRef50_F0YQM0	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YQM0_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1186 Strand: -	559	-23.3
+9e-17	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1505 Strand: -	279	-29.5
+5e-48	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1164 Strand: -	182	-15.3
+5e-48	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_6366 Strand: -	182	-15.3
+1e-07	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1591 Strand: +	2053	-13.9
+1e-07	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1591 Strand: +	997	-13.9
+6e-18	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_3630 Strand: -	1095	-11.8
+6e-18	lcl|UniRef50_Q50KB1	Protein disulfide-isomerase-like protein EhSep2	n=18	Tax=Eukaryota	TaxID=2759	RepID=SEP2_EMIHU	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_8577 Strand: +	1095	-11.8
+6e-36	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_272 Strand: -	532	-18.8
+6e-36	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_696 Strand: +	532	-18.8
+6e-36	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_736 Strand: +	532	-18.8
+2e-24	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_696 Strand: +	534	-14.8
+2e-24	lcl|UniRef50_F0YFW7	Peroxiredoxin-like 2 activated in M-CSF stimulated monocytes (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YFW7_AURAN	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_736 Strand: +	534	-14.8
+8e-32	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_1164 Strand: -	490	-9.4
+8e-32	lcl|UniRef50_Q9Z0J5-2	Isoform 2 of Thioredoxin reductase 2, mitochondrial	n=298	Tax=Euteleostomi	TaxID=117571	RepID=Q9Z0J5-2	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_6366 Strand: -	490	-9.4
+3e-34	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_70 Strand: -	441	-16.5
+4e-34	lcl|UniRef50_A0SWV9	Glutathione peroxidase	n=4	Tax=Opisthorchiidae	TaxID=6196	RepID=A0SWV9_CLOSI	Pleurochrysis_elongata_var_CCMP874.mainGenome.fasta	scaffold_7735 Strand: -	441	-16.5
+6e-47	lcl|UniRef50_A0A6P8IP98	Glutathione peroxidase	n=4	Tax=Eukaryota	TaxID=2759	RepID=A0A6P8IP98_ACTTE	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_20 Strand: -	516	-28.3
+2e-10	lcl|UniRef50_H2B641	Glutathione peroxidase	n=8	Tax=Protostomia	TaxID=33317	RepID=H2B641_9MAXI	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_110 Strand: -	438	-32.8
+4e-04	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_1 Strand: -	62	-28.2
+e-116	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_4 Strand: -	81	-30.3
+1e-50	lcl|UniRef50_F0Y7Q7	Selenoprotein O (Fragment)	n=4	Tax=Pelagomonadales	TaxID=54409	RepID=F0Y7Q7_AURAN	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_17 Strand: -	109	-26.5
+3e-22	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_2 Strand: -	442	-26.0
+3e-78	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_14 Strand: -	569	-23.8
+7e-15	lcl|UniRef50_A0A2W4HUN7	Peptide methionine sulfoxide reductase MsrA	n=1	Tax=Candidatus	TaxID=2052166	RepID=A0A2W4HUN7_9BACT	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_1 Strand: +	608	-15.9
+7e-08	lcl|UniRef50_L7WGA7	Type II iodothyronine deiodinase	n=21	Tax=Vertebrata	TaxID=7742	RepID=IOD2_PETMA	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_1 Strand: +	476	-22.4
+5e-25	lcl|UniRef50_A0A3M2ATG8	Peptide methionine sulfoxide reductase MsrA	n=21	Tax=cellular	TaxID=131567	RepID=A0A3M2ATG8_9BACT	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_115 Strand: +	552	-24.3
+1e-09	lcl|UniRef50_A0A1S3H6N6	selenoprotein M-like	n=10	Tax=Protostomia	TaxID=33317	RepID=A0A1S3H6N6_LINUN	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_4 Strand: +	569	-39.8
+3e-17	lcl|UniRef50_F0YKK3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YKK3_AURAN	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_9 Strand: +	357	-24.7
+4e-39	lcl|UniRef50_Q0BZB3	Selenoprotein	n=3	Tax=Hyphomonas	TaxID=85	RepID=Q0BZB3_HYPNA	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_17 Strand: +	621	-21.2
+1e-20	lcl|UniRef50_F0YAQ3	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YAQ3_AURAN	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_14 Strand: -	863	-18.1
+8e-52	lcl|UniRef50_UPI000C765B6A	glutathione peroxidase 2-like	n=1	Tax=Eurytemora	TaxID=88015	RepID=UPI000C765B6A	Dicrateria_rotunda_var_RCC4500.mainGenome.fasta	scaffold_6 Strand: -	563	-26.7
+1e-26	lcl|UniRef50_A8JGP7	Selenoprotein H	n=4	Tax=core	TaxID=2692248	RepID=A8JGP7_CHLRE	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_383 Strand: -	270	-24.5
+e-115	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_219 Strand: +	56	-26.0
+e-115	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_1046 Strand: +	56	-26.0
+0.0	lcl|UniRef50_B9A1H3	Thioredoxin reductase SEP1	n=33	Tax=Eukaryota	TaxID=2759	RepID=TRXR1_EMIHU	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_2540 Strand: +	103	-15.1
+3e-20	lcl|UniRef50_Q1PBM0	Phospholipid hydroperoxide glutathione peroxidase isoform 2	n=1	Tax=Paragonimus	TaxID=34504	RepID=Q1PBM0_9TREM	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_787 Strand: +	617	-19.4
+3e-27	lcl|UniRef50_F0YMW0	Selenoprotein	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YMW0_AURAN	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_1688 Strand: -	191	-13.9
+1e-10	lcl|UniRef50_Q86VQ6	Thioredoxin reductase 3	n=57	Tax=Boreoeutheria	TaxID=1437010	RepID=TRXR3_HUMAN	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_2586 Strand: -	288	-14.1
+3e-58	lcl|UniRef50_A0A2N2KAM3	Arsenite S-adenosylmethyltransferase	n=8	Tax=Deltaproteobacteria	TaxID=28221	RepID=A0A2N2KAM3_9DELT	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_2095 Strand: +	237	-24.1
+1e-18	lcl|UniRef50_A0A3N5YFB3	Peptide-methionine (S)-S-oxide reductase (Fragment)	n=1	Tax=Desulfobacteraceae	TaxID=2049433	RepID=A0A3N5YFB3_9DELT	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_2764 Strand: +	378	-18.6
+1e-47	lcl|UniRef50_F0YC47	Selenoprotein (Fragment)	n=1	Tax=Aureococcus	TaxID=44056	RepID=F0YC47_AURAN	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_143 Strand: +	579	-26.6
+9e-40	lcl|UniRef50_A0A1S3R316	Glutathione peroxidase	n=35	Tax=Euteleostomi	TaxID=117571	RepID=A0A1S3R316_SALSA	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_1183 Strand: +	542	-10.5
+2e-25	lcl|UniRef50_A0A6I9HQS4	Glutathione peroxidase	n=10	Tax=Amniota	TaxID=32524	RepID=A0A6I9HQS4_GEOFO	Coccolithus_braarudii_var_RCC3777.mainGenome.fasta	scaffold_781 Strand: +	419	-20.0
