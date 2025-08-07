@@ -1,0 +1,39 @@
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:13    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-19
+ Query name: lcl|UniRef50_P36968 Phospholipid hydroperoxide glutathione peroxidase n=93 Tax=Theria TaxID=32525 RepID=GPX4_PIG
+ Query range: 37-133  (total 197)
+
+ Target: /data/Ruttnera_lamellosa_var_CCMP3415.mainGenome.fasta
+ Chromosome: scaffold_36 Strand: -
+ Positions:
+ -Exon 1  474214       474507
+
+ Redox box: no
+
+Query   CARSMHEFSAKD-IDGHMVNLDKYRGYVCIVTNVASQUGKTEVNYTQLVDLHARYAECGLRILAFPCNQFGRQEPGSDAEIKEFAAGYNVKFDMFSKI
+          /|/|/ || / | |    | /| | ||/| |||| |     |||/|| ||    | | |/|||||||||/|| || |||/ || |||  || | |/
+Target  AVKSLHDLSAAEMISGKERALSQYEGQVCLVVNVASAUALAPRNYTELVQLHELLYERGFRVLAFPCNQFGKQERGSPAEIRAFADGYNANFDFFEKV
+        ggatccgctgggaatgagcgcactggcgtcggaggtgtgcgccatagtgcccgcctgcgtcgcgtctactgacgagtcggacgtgggtagatgttgag
+        ctactaatcccattcgaagctgaaagatgtttatcccgctccgaacattataattaaggtgttctcgaatgaaaggcccatgctcagaacatattaat
+        tcgcttcgtgcggcgcgggcccgcgtgccggcccgggacaggcccggggggcgcgcgcccccgccgccacgggggatccgccctctgcccttcccggg
+                                             *                                                            
+ Sequence until next stop: 
+GGGCATCCCCGCCTTGCACACTGTGTCGGCTCCACAGCTTGA
+ G  H  P  R  L  A  H  C  V  G  S  T  A  * 
+
+ Distance CDS-SECIS: 773 ; UGA-SECIS: 953
+
+------- SECIS element -- id:13 -- grade:B ----
+ Chromosome = scaffold_36 Strand = - Positions = 473440 - 473356
+ Found by:  Infernal (score=14.11) Covels (score=0.83)
+ Stem2 length = 10   Apical loop length = 27   Insertion in stem2 = 2, 0
+ Free Energy = -22.8
+
+         ..(((((((.......((((((((((.((.(((.........................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccug-gc-ccuAAAcC----------cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..(((((((---(...([[((((((.((.(((...........................)))))))))))]])..--...))))))))..
+ target  UGUGGGGUG---GACAUGAAGGACGUGCUCCGCAAAGCCGUGCGCCAAGGCGCAAUGGCCGGGCCGUUCUGAGAA--UUCCCACUCCAAU
+                         ****             ^^^                                 ****                 

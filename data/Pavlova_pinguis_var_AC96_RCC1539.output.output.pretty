@@ -1,0 +1,1341 @@
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:5     SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-43
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 28-167  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_6 Strand: -
+ Positions:
+ -Exon 1  1180142      1180552
+
+ Redox box: no
+
+Query   KYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSDADDLYKFLKSRQHGTLT
+        /|/| | |||||| ||| || ||//|  /  /|  /|  /|||| |||||||| / /||//||/  |||/| ||/|| ||| /   || ||||     | 
+Target  RYKGKVSLIVNVASKUGLTDSNYKELVSLREKLAPRGFEVLAFPSNQFGGQEPGSPSEIREFVS-GYGVKFPMFAKIDVNGPNTHPLYGFLKSGT--GLL
+        atagagacagaggtatgtagtatagcgtccgacgccgtggtgtctactggcgcgtcagacgtgt-gtggatcatgaaggagcaaccctgtcatga--gcc
+        gaagatgtttatccaggtcacaaaattctgaatccggtattctccaatggaacgccgatgattc-gagtatcttcatatagcacactagttacgc--gtt
+        gcgcatcgcgccccaacgccaccgggttgagggcttgtgtgaccccgttcgggtggcgcggccg-cttcgtcgccgtcgcgccgccgccccgccg--ccg
+                       *                                                                                    
+
+Query   NNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLE
+         /||||| |||||//|/ |/||/||| |  |||||//||/
+Target  PDIKWNFGKFLVDKEGRVVERYAPTTPPSAIEGDIVKLLD
+        cgaatatgatcggaggagggctgcaacctgagggagaccg
+        catagatgatttaaaggttagacccccccctagattatta
+        cccggcccgccccggcggcggccgctcgcccggcttaccc
+                                                
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 101 ; UGA-SECIS: 464
+
+------- SECIS element -- id:5 -- grade:A ----
+ Chromosome = scaffold_6 Strand = - Positions = 1180040 - 1179957
+ Found by:  Infernal (score=26.62) Covels (score=32.02)
+ Stem2 length = 10   Apical loop length = 17   Insertion in stem2 = 2, 0
+ Free Energy = -22.2
+
+         ..(((((((.......((((((((((((..(((.................)))))))))))))))...........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggc--ccuAAAcC--cuuuuuggggcgggccaggcCuGAUGuu--u-uuucaugaccggc
+         (((((((((.......{[[{(({(((((..(((.................))))))))}))}]]}.......-...)))))))))
+ target  GCACAGCCGACUUUCAUGACGGAGGGCGCUCUGAAAGCGGCUUCGGCCGCUGGCGUCCCCCUGAUGCAACAA-GAACGGCUGUGC
+                         ****             ^^^                         ****                    
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:6     SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-43
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 28-167  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_7 Strand: -
+ Positions:
+ -Exon 1  1134333      1134743
+
+ Redox box: no
+
+Query   KYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSDADDLYKFLKSRQHGTLT
+        /|/| | |||||| ||| || ||//|  /  /|  /|  /|||| |||||||| / /||//||/  |||/| ||/|| ||| /   || ||||     | 
+Target  RYKGKVSLIVNVASKUGLTDSNYKELVSLREKLAPRGFEVLAFPSNQFGGQEPGSPSEIREFVS-GYGVKFPMFAKIDVNGPNTHPLYGFLKSGT--GLL
+        atagagacagaggtatgtagtatagcgtccgacgccgtggtgtctactggcgcgtcagacgtgt-gtggatcatgaaggagcaaccctgtcatga--gcc
+        gaagatgtttatccaggtcacaaaattctgaatccggtattctccaatggaacgccgatgattc-gagtatcttcatatagcacactagttacgc--gtt
+        gcgcatcgcgccccaacgccaccgggttgagggcttgtgtgaccccgttcgggtggcgcggccg-cttcgtcgtcgtcgcgccgccgccccgccg--ccg
+                       *                                                                                    
+
+Query   NNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLE
+         /||||| |||||//|/ |/||/||| |  |||||//||/
+Target  PDIKWNFGKFLVDKEGRVVERYAPTTPPSAIEGDIVKLLD
+        cgaatatgatcggaggagggctgcaacctgagggagaccg
+        catagatgatttaaaggttagacccccccctagattatta
+        cccggcccgccccggcggcggccgctcgcccggcttaccc
+                                                
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 101 ; UGA-SECIS: 464
+
+------- SECIS element -- id:6 -- grade:A ----
+ Chromosome = scaffold_7 Strand = - Positions = 1134231 - 1134148
+ Found by:  Infernal (score=26.62) Covels (score=32.02)
+ Stem2 length = 10   Apical loop length = 17   Insertion in stem2 = 2, 0
+ Free Energy = -22.2
+
+         ..(((((((.......((((((((((((..(((.................)))))))))))))))...........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggc--ccuAAAcC--cuuuuuggggcgggccaggcCuGAUGuu--u-uuucaugaccggc
+         (((((((((.......{[[{(({(((((..(((.................))))))))}))}]]}.......-...)))))))))
+ target  GCACAGCCGACUUUCAUGACGGAGGGCGCUCUGAAAGCGGCUUCGGCCGCUGGCGUCCCCCUGAUGCAACAA-GAACGGCUGUGC
+                         ****             ^^^                         ****                    
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:7     SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-43
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 28-167  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_183 Strand: -
+ Positions:
+ -Exon 1  69684        70094
+
+ Redox box: no
+
+Query   KYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSDADDLYKFLKSRQHGTLT
+        /|/| | |||||| ||| || ||//|  /  /|  /|  /|||| |||||||| / /||//||/  |||/| ||/|| ||| /   || ||||     | 
+Target  RYKGKVSLIVNVASKUGLTDSNYKELVSLREKLAPRGFEVLAFPSNQFGGQEPGSPSEIREFVS-GYGVKFPMFAKIDVNGPNTHPLYGFLKSGT--GLL
+        atagagacagaggtatgtagtatagcgtccgacgccgtggtgtctactggcgcgtcagacgtgt-gtggatcatgaaggagcaaccctgtcatga--gcc
+        gaagatgtttatccaggtcacaaaattctgaatccggtattctccaatggaacgccgatgattc-gagtatcttcatatagcacactagttacgc--gtt
+        gcgcatcgcgccccaacgccaccgggttgagggcttgtgtgaccccgttcgggtggcgcggccg-cttcgtcgtcgtcgcgccgccgccccgccg--ccg
+                       *                                                                                    
+
+Query   NNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLE
+         /||||| |||||//|/ |/||/||| |  |||||//||/
+Target  PDIKWNFGKFLVDKEGRVVERYAPTTPPSAIEGDIVKLLD
+        cgaatatgatcggaggagggctgcaacctgagggagaccg
+        catagatgatttaaaggttagacccccccctagattatta
+        cccggcccgccccggcggcggccgctcgcccggcttaccc
+                                                
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 101 ; UGA-SECIS: 464
+
+------- SECIS element -- id:7 -- grade:A ----
+ Chromosome = scaffold_183 Strand = - Positions = 69582 - 69499
+ Found by:  Infernal (score=26.62) Covels (score=32.02)
+ Stem2 length = 10   Apical loop length = 17   Insertion in stem2 = 2, 0
+ Free Energy = -22.2
+
+         ..(((((((.......((((((((((((..(((.................)))))))))))))))...........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggc--ccuAAAcC--cuuuuuggggcgggccaggcCuGAUGuu--u-uuucaugaccggc
+         (((((((((.......{[[{(({(((((..(((.................))))))))}))}]]}.......-...)))))))))
+ target  GCACAGCCGACUUUCAUGACGGAGGGCGCUCUGAAAGCGGCUUCGGCCGCUGGCGUCCCCCUGAUGCAACAA-GAACGGCUGUGC
+                         ****             ^^^                         ****                    
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:9     SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-32
+ Query name: lcl|UniRef50_C1MRX5 Selenoprotein n=1 Tax=Micromonas pusilla (strain CCMP1545) TaxID=564608 RepID=C1MRX5_MICPC
+ Query range: 111-258  (total 267)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_6 Strand: +
+ Positions:
+ -Exon 1  2570575      2571018
+
+ Redox box: no
+
+Query   GKRVYAGVFKRDVDAKDLPSEEDAAARREDAATNLTNIDMDERERRSKIGVFFIAVCMALMTYQIPRGAPWNERAILALPLFFAIGFFGSGSTGLUNIAQ
+        | ||  |||  |||  //|        |//|| /|||||  |||||///|        ||    |   ||/  || | || | //||  || |||||| |
+Target  GSRVSYGVFTTDVDPNEVPPTAVRRQLRDEAARDLTNIDARERERRTRVGAIGSLFTAALSVGLIIAHAPFEARAALFLPTFLSLGFLESGRTGLUNIGQ
+        gtcgttggtaagggcaggccaggcacccggggcgtaaaggcgcgccaagggagactaggctggtaagcgctggcggctccatctcgtcgtgcagttaagc
+        gcgtcagttccatacaatcccctggatgaaccgatcatacgagaggcgtgctggttccctctgtttcacctacgcctttccttctgttacggcgtgatga
+        tcggacccccgtttgcggtcgcgcggcccgtattgccctcagggtggggtactcccaagccgcgccgcagtaaatgcccttcttggcggtgcttgatctg
+                                                                                                       *    
+
+Query   AGVWDVDGTGLQTIEDKSIAQRIRDEVNDFNRNTAIIVFAATAYYMVL
+        || |||||/|/| |/|  /| //  /|| ||/ ||/ |      |/ |
+Target  AGYWDVDGSGIQPIKDPGLASQLLQKVNSFNKQTALRVLGIMVAYLAL
+        ggttggggagaccaagcgcgaccccagattaacagtcgtgaaggtcgc
+        cgagatagggtactaacgtcgattaatactaaacctgttgtttcatct
+        ggcgcttatccgccatccctcgcggggcgccgacgggggctgtccgtt
+                                                        
+ Sequence until next stop: 
+TCGGAAGCTGCAATGCGCGCTTTTTAG
+ S  E  A  A  M  R  A  F  * 
+
+ Distance CDS-SECIS: 164 ; UGA-SECIS: 320
+
+------- SECIS element -- id:9 -- grade:A ----
+ Chromosome = scaffold_6 Strand = + Positions = 2571183 - 2571259
+ Found by:  Infernal (score=23.67) Covels (score=17.54)
+ Stem2 length = 12   Apical loop length = 18   Insertion in stem2 = 0, 1
+ Free Energy = -25.4
+
+         ..(((((((.......(((((((((((((((....................))))))).))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggcca-ggcCuGAUGuuuuuucaugaccggc
+         ...((((((---....{[[{((((((((((((..................)))))))).))))}]]}----....))))))...
+ target  CAUCCAGGC---AACAUGACGGUGAGCCUUUCAAGCGCUGUUUGCACAGCGAAGGGCUCCACCUGAC----UCAGGCCUGGCCC
+                         ****            ^^                             ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:10    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-32
+ Query name: lcl|UniRef50_C1MRX5 Selenoprotein n=1 Tax=Micromonas pusilla (strain CCMP1545) TaxID=564608 RepID=C1MRX5_MICPC
+ Query range: 111-258  (total 267)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_7 Strand: -
+ Positions:
+ -Exon 1  2354949      2355392
+
+ Redox box: no
+
+Query   GKRVYAGVFKRDVDAKDLPSEEDAAARREDAATNLTNIDMDERERRSKIGVFFIAVCMALMTYQIPRGAPWNERAILALPLFFAIGFFGSGSTGLUNIAQ
+        | ||  |||  |||  //|        |//|| /|||||  |||||///|        ||    |   ||/  || | || | //||  || |||||| |
+Target  GSRVSYGVFTTDVDPNEVPPTAVRRQLRDEAARDLTNIDARERERRTRVGAIGSLFTAALSVGLIIAHAPFEARAALFLPTFLSLGFLESGRTGLUNIGQ
+        gtcgttggtaagggcaggccaggcacccggggcgtaaaggcgcgccaagggagactaggctggtaagcgctggcggctccatctcgtcgtgcagttaagc
+        gcgtcagttccatacaatcccctggatgaaccgatcatacgagaggcgtgctggttccctctgtttcacctacgcctttccttctgttacggcgtgatga
+        tcggacccccgtttgcggtcgcgcggcccgtattgccctcagggtggggtacccccaagccgcgccgcagtaaatgcccttcttggcggtgcttgatctg
+                                                                                                       *    
+
+Query   AGVWDVDGTGLQTIEDKSIAQRIRDEVNDFNRNTAIIVFAATAYYMVL
+        || |||||/|/| |/|  /| //  /|| ||/ ||/ |      |/ |
+Target  AGYWDVDGSGIQPIKDPGLASQLLQKVNSFNKQTALRVLGIMVAYLAL
+        ggttggggagaccaagcgcgaccccagattaacagtcgtgaaggtcgc
+        cgagatagggtactaacgtcgattaatactaaacctgttgtttcatct
+        ggcgcttatccgccatccctcgcggggcgccgacgggggctgtccgtt
+                                                        
+ Sequence until next stop: 
+TCGGAAGCTGCAATGCGCGCTTTTTAG
+ S  E  A  A  M  R  A  F  * 
+
+ Distance CDS-SECIS: 164 ; UGA-SECIS: 320
+
+------- SECIS element -- id:10 -- grade:A ----
+ Chromosome = scaffold_7 Strand = - Positions = 2354784 - 2354708
+ Found by:  Infernal (score=23.67) Covels (score=17.54)
+ Stem2 length = 12   Apical loop length = 18   Insertion in stem2 = 0, 1
+ Free Energy = -25.4
+
+         ..(((((((.......(((((((((((((((....................))))))).))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggcca-ggcCuGAUGuuuuuucaugaccggc
+         ...((((((---....{[[{((((((((((((..................)))))))).))))}]]}----....))))))...
+ target  CAUCCAGGC---AACAUGACGGUGAGCCUUUCAAGCGCUGUUUGCACAGCGAAGGGCUCCACCUGAC----UCAGGCCUGGCCC
+                         ****            ^^                             ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:19    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-36
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 12-169  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_8 Strand: -
+ Positions:
+ -Exon 1  1279154      1279612
+
+ Redox box: no
+
+Query   YEFTVKDIN-GVDVSLEKYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSD
+        |||| /|// | /| |  /|| | || ||| /|||||//|//   // ||  ||  /||||| ||||||    |/|/ ||  ||||/| ||/ //|||  
+Target  YEFTAQDLDTGAEVPLAAFRGKVSLISNVASQUGATDRSYKKFVALYDRLEAKGFTVLAFPCFQFGGQEFRDNAKIRAFVA-KYGVRFPMFAPVEVNGPG
+        tgtagcgcgaggggccggtcgagtcataggtctggagcttaatggctgccggagtagcgtcttctggcgtcgagaacgtgg-atggctcatgcgggagcg
+        aatccaatacgcatctcctggatcttcatccaggccagcaaattctaagtacagtcttctcgtatggaatgaacatgcttc-aagtgtcttcctatagcg
+        cgccagtccgcgggccggcccggcgcccctcaacggcggcggtccgccgcgcgccgcccccccgtggggcccccgcgcctc-atcgcccgcccgggcgac
+                                        *                                                                   
+
+Query   ADDLYKFLKSRQHGTLTNNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLEKK
+        |  |/|||      //| |    |   |||//|/ ||||       /|| |// ||  |
+Target  AHPLFKFL--NPESSITWNFDGQF---LVDQEGKLVKRYGSRAPAEEIERDVLALLGNK
+        gccctatc--acgttaatatggct---cggcggacgactgtcgcgggagcggcgccgaa
+        cacttatt--acacctcgatagat---ttaaagattagagcgcccaatagattcttgaa
+        accccgcc--ctgagcggctcggt---ctcggcggggccgccggcagtggcgtccgccg
+                                                                   
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 66 ; UGA-SECIS: 426
+
+------- SECIS element -- id:19 -- grade:A ----
+ Chromosome = scaffold_8 Strand = - Positions = 1279087 - 1279009
+ Found by:  Infernal (score=20.17) Covels (score=20.8)
+ Stem2 length = 10   Apical loop length = 20   Insertion in stem2 = 0, 0
+ Free Energy = -32.9
+
+         ..(((((((.......(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..(((((((.......{[[{((((((((((....................))))))))))}]]}..--....)))))))..
+ target  CACGCGAGCUCCGAUGUGACGAGGCGCGCCGGAAUGGCACCCGGUGCUAGGGCGCGCCUCCGAUGU--ACGCGCUCGCGCC
+                         ****            ^^                          ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:20    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-36
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 12-169  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_103 Strand: +
+ Positions:
+ -Exon 1  152204       152662
+
+ Redox box: no
+
+Query   YEFTVKDIN-GVDVSLEKYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSD
+        |||| /|// | /| |  /|| | || ||| /|||||//|//   // ||  ||  /||||| ||||||    |/|/ ||  ||||/| ||/ //|||  
+Target  YEFTAQDLDTGAEVPLAAFRGKVSLISNVASQUGATDRSYKKFVALYDRLEAKGFTVLAFPCFQFGGQEFRDNAKIRAFVA-KYGVRFPMFAPVEVNGPG
+        tgtagcgcgaggggccggtcgagtcataggtctggagcttaatggctgccggagtagcgtcttctggcgtcgagaacgtgg-atggctcatgcgggagcg
+        aatccaatacgcatctcctggatcttcatccaggccagcaaattctaagtacagtcttctcgtatggaatgaacatgcttc-aagtgtcttcctatagcg
+        cgccagtccgcgggccggcccggcgcccctcaacggcggcggtccgccgcgcgccgcccccccgtggggcccccgcgcctc-atcgcccgcccgggcgac
+                                        *                                                                   
+
+Query   ADDLYKFLKSRQHGTLTNNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLEKK
+        |  |/|||      //| |    |   |||//|/ ||||       /|| |// ||  |
+Target  AHPLFKFL--NPESSITWNFDGQF---LVDQEGKLVKRYGSRAPAEEIERDVLALLGNK
+        gccctatc--acgttaatatggct---cggcggacgactgtcgcgggagcggcgccgaa
+        cacttatt--acacctcgatagat---ttaaagattagagcgcccaatagattcttgaa
+        accccgcc--ctgagcggctcggt---ctcggcggggccgccggcagtggcgtccgccg
+                                                                   
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 66 ; UGA-SECIS: 426
+
+------- SECIS element -- id:20 -- grade:A ----
+ Chromosome = scaffold_103 Strand = + Positions = 152729 - 152807
+ Found by:  Infernal (score=20.17) Covels (score=20.8)
+ Stem2 length = 10   Apical loop length = 20   Insertion in stem2 = 0, 0
+ Free Energy = -32.9
+
+         ..(((((((.......(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..(((((((.......{[[{((((((((((....................))))))))))}]]}..--....)))))))..
+ target  CACGCGAGCUCCGAUGUGACGAGGCGCGCCGGAAUGGCACCCGGUGCUAGGGCGCGCCUCCGAUGU--ACGCGCUCGCGCC
+                         ****            ^^                          ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:40    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 6e-57
+ Query name: lcl|UniRef50_C1MNW8 Glutaredoxin-dependent peroxiredoxin n=12 Tax=Eukaryota TaxID=2759 RepID=C1MNW8_MICPC
+ Query range: 1-170  (total 173)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_3 Strand: -
+ Positions:
+ -Exon 1  3814196      3814702
+
+ Redox box: no
+
+Query   MVIKVGDTFPAVQLDKDFPPDFKVDMTSRLAGKKTIVVGLPGAFTPTUSTCQVPGYLAGQDALKAAGIDEVLVYCVNDAAVMSAWADHMKIAGSNLTFLC
+        |   |||  ||| /|  |||/ ||//  || |||||/||||||||||||/ ||||||/ |||||| |||||||||||| ||| |||    /||| /||| 
+Target  MQAAVGDKVPAVDVDYLFPPE-KVNIADRLKGKKTIIVGLPGAFTPTUSSTQVPGYLSKQDALKAKGIDEVLVYCVNDGAVMEAWAKDQGVAGSMITFLA
+        acgggggagcgggggtctccg-agaaggccagaaaaaggccggtacatttacgcgtctacggtagagagggcgttgaggggaggtgagcggggtaaatcg
+        tacctgaatcctataattcca-atatcagtagaactttgtcgctcccgcccatcgatcaaactacagtaatttagtaagcttacgcaaagtcgcttcttc
+        gggcctcggctgcgtctcacg-ggctacctgcggccctcgagccgccacatggcgctgggctggcgcctggggcccctcgtggggcgcgcgtccgccccg
+                                                       *                                                    
+
+Query   DPRLELTKALGLELNHPGPMSKLGNTRCKRFAAYVVDGVVKHIEVSEAEDDPAGDDRPEASCIDNMLAKI
+        | | |||||| / |/|||||  ||| | |||| |  |||/||/ |||| ||||||  | |||// ||  |
+Target  DTRCELTKALDMVLDHPGPMGVLGNPRSKRFAIYAEDGVIKHMAVSEAPDDPAGDADPSASCVEAMLEAI
+        gactgcaagcgagcgccgcaggcgacctactgatgggggaacaggtggcggcgggggctgttgggacgga
+        acggatcactatttaacgctgttgacgcagtctacaagttaatctcaccaaccgacaccccgtacttact
+        cgccgccgtccgccccgccgcgcccccggccccctgctccgcgcccggctccaccgcgcgccggggtgcc
+                                                                              
+ Sequence until next stop: 
+TAA
+ * 
+
+ Distance CDS-SECIS: 142 ; UGA-SECIS: 508
+
+------- SECIS element -- id:40 -- grade:A ----
+ Chromosome = scaffold_3 Strand = - Positions = 3814053 - 3813969
+ Found by:  Infernal (score=17.83) Covels (score=16.42)
+ Stem2 length = 9   Apical loop length = 23   Insertion in stem2 = 0, 0
+ Free Energy = -15.7
+
+         ..(((((((.......((((((((((.(((((...................))))).))))))))))..........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccug-gcccuAAAcC----cuuuuuggggcgggc-caggcCuGAUGuu-u-uuucaugaccggc
+         .....((((.......{[[{((({((((((.......................))))))})))}]]}......-...)))).....
+ target  CCAAUUCCUCCCGACAUGACGGCACCGCGCAUAAAACCUCUACCCAUGAGGUCGCGUGGAGCCCGAUCCUGUG-UGCAGGGCACGU
+                         ****            ^^^                            ****                   
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:41    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 6e-57
+ Query name: lcl|UniRef50_C1MNW8 Glutaredoxin-dependent peroxiredoxin n=12 Tax=Eukaryota TaxID=2759 RepID=C1MNW8_MICPC
+ Query range: 1-170  (total 173)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_74 Strand: -
+ Positions:
+ -Exon 1  554678       555184
+
+ Redox box: no
+
+Query   MVIKVGDTFPAVQLDKDFPPDFKVDMTSRLAGKKTIVVGLPGAFTPTUSTCQVPGYLAGQDALKAAGIDEVLVYCVNDAAVMSAWADHMKIAGSNLTFLC
+        |   |||  ||| /|  |||/ ||//  || |||||/||||||||||||/ ||||||/ |||||| |||||||||||| ||| |||    /||| /||| 
+Target  MQAAVGDKVPAVDVDYLFPPE-KVNIADRLKGKKTIIVGLPGAFTPTUSSTQVPGYLSKQDALKAKGIDEVLVYCVNDGAVMEAWAKDQGVAGSMITFLA
+        acgggggagcgggggtctccg-agaaggccagaaaaaggccggtacatttacgcgtctacggtagagagggcgttgaggggaggtgagcggggtaaatcg
+        tacctgaatcctataattcca-atatcagtagaactttgtcgctcccgcccatcgatcaaactacagtaatttagtaagcttacgcaaagtcgcttcttc
+        gggcctcggctgcgtctcacg-ggctacctgcggccctcgagccgccacatggcgctgggctggcgcctggggcccctcgtggggcgcgcgtccgccccg
+                                                       *                                                    
+
+Query   DPRLELTKALGLELNHPGPMSKLGNTRCKRFAAYVVDGVVKHIEVSEAEDDPAGDDRPEASCIDNMLAKI
+        | | |||||| / |/|||||  ||| | |||| |  |||/||/ |||| ||||||  | |||// ||  |
+Target  DTRCELTKALDMVLDHPGPMGVLGNPRSKRFAIYAEDGVIKHMAVSEAPDDPAGDADPSASCVEAMLEAI
+        gactgcaagcgagcgccgcaggcgacctactgatgggggaacaggtggcggcgggggctgttgggacgga
+        acggatcactatttaacgctgttgacgcagtctacaagttaatctcaccaaccgacaccccgtacttact
+        cgccgccgtccgccccgccgcgcccccggccccctgctccgcgcccggctccaccgcgcgccggggtgcc
+                                                                              
+ Sequence until next stop: 
+TAA
+ * 
+
+ Distance CDS-SECIS: 142 ; UGA-SECIS: 508
+
+------- SECIS element -- id:41 -- grade:A ----
+ Chromosome = scaffold_74 Strand = - Positions = 554535 - 554451
+ Found by:  Infernal (score=17.83) Covels (score=16.42)
+ Stem2 length = 9   Apical loop length = 23   Insertion in stem2 = 0, 0
+ Free Energy = -15.7
+
+         ..(((((((.......((((((((((.(((((...................))))).))))))))))..........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccug-gcccuAAAcC----cuuuuuggggcgggc-caggcCuGAUGuu-u-uuucaugaccggc
+         .....((((.......{[[{((({((((((.......................))))))})))}]]}......-...)))).....
+ target  CCAAUUCCUCCCGACAUGACGGCACCGCGCAUAAAACCUCUACCCAUGAGGUCGCGUGGAGCCCGAUCCUGUG-UGCAGGGCACGU
+                         ****            ^^^                            ****                   
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:100   SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 5e-12
+ Query name: lcl|UniRef50_A0A6J0TRQ8 selenoprotein F n=14 Tax=Sauria TaxID=32561 RepID=A0A6J0TRQ8_9SAUR
+ Query range: 4-160  (total 160)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_7 Strand: +
+ Positions:
+ -Exon 1  1496653      1496978
+ -Exon 2  1497094      1497238
+
+ Redox box: no
+
+Query   EKGLGNLGRCWVWLLATLQAASVYGAELSSEACRELGFSSNLLCSSCDLLGQF--GLNQLDPFCRKCCQEEAQAEIRKLYSGAVLEVCGUKLGRFPQVQA
+        //| | /       /| |    /  |  || /| ||||/ /||||||  || /    / |   | /|| |/     /| /| |||||| |/|| || // 
+Target  QQGRGEVAGMGASRVAALLVGVLPLARASSASCAELGFAPSLLCSSCSKLGGYVGAQDALVAECERCCSEDVTGTDKK-FSKAVLEVCKURLGSFPNIRD
+        ccgcgggggaggtcgggccgggcccgcgttgttggcgtgctccttttaacggtgggcggcgggtgcttagggagagaa-ttaggcggtatccgatcaacg
+        aagggatcgtgccgtcctttgttctcgcccccgcatgtcccttgccggatggatgcaacttcagaggggaatcgcaaa-tcacttatgaggtggtcatga
+        gaagcacaggcgctcttgggcggccccacacctggctccctcctggccgtaccgtcgctcgagcgccctgcgtggcgg-cggggcggcgacggccgcccc
+                                                                                                 *          
+
+Query   FVRSDKPKLFR <---Intron---> GLQIKYVRGSDPVLKLLDDSGNIAEELSILKWNTDSVEEFLSEKLERL
+        |/ /   | // <   115bp    >   ///|  |  | / | ///| / ||/|/  | |//||||| ||| ||
+Target  FLETSADK-YK                NFEVRYKNGVAPTMLLENEAGEVEEEMSLSHWKTENVEEFLQEKLIRL
+        tcgaagga-ta                atggataagggcaaccgaggggggggatctctaagagggttcgacacc
+        ttacgcaa-aa                atatgaaagtccctttaaacgataaatctcagacaataattaaattgt
+        ccggttcg-c                gttggacgtcgagcggagtggaggaaggccccggagcgagtgggacccg
+                                                                                   
+ Sequence until next stop: 
+GAGTAG
+ E  * 
+
+ Distance CDS-SECIS: 79 ; UGA-SECIS: 283
+
+------- SECIS element -- id:100 -- grade:A ----
+ Chromosome = scaffold_7 Strand = + Positions = 1497318 - 1497394
+ Found by:  Infernal (score=15.59) Covels (score=20.89)
+ Stem2 length = 10   Apical loop length = 16   Insertion in stem2 = 0, 0
+ Free Energy = -18.7
+
+         ..(((((((.......(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ....((({((......{[[{(((({(({((((................))))}))}))))}]]}----...))})))....
+ target  CUGGUCCCCGCACUCAUGACGCGCUCACCCACAGCGGCAAACCAUGCCGUGGAUGUGUGCUGAC----ACCUGAGGAAGAU
+                         ****                                        ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:133   SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 5e-12
+ Query name: lcl|UniRef50_A0A6J0TRQ8 selenoprotein F n=14 Tax=Sauria TaxID=32561 RepID=A0A6J0TRQ8_9SAUR
+ Query range: 4-160  (total 160)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_6 Strand: +
+ Positions:
+ -Exon 1  1588149      1588474
+ -Exon 2  1588590      1588734
+
+ Redox box: no
+
+Query   EKGLGNLGRCWVWLLATLQAASVYGAELSSEACRELGFSSNLLCSSCDLLGQF--GLNQLDPFCRKCCQEEAQAEIRKLYSGAVLEVCGUKLGRFPQVQA
+        //| | /       /| |    /  |  || /| ||||/ /||||||  || /    / |   | /|| |/     /| /| |||||| |/|| || // 
+Target  QQGRGEVAGMGASRVAALLVGVLPLARASSASCAELGFAPSLLCSSCSKLGGYVGAQDALVAECERCCSEDVTGTDKK-FSKAVLEVCKURLGSFPNIRD
+        ccgcgggggaggtcgggccgggcccgcgttgttggcgtgctccttttaacggtgggcggcgggtgcttagggagagaa-ttaggcggtatccgatcaacg
+        aagggatcgtgccgtcctttgttctcgcccccgcatgtcccttgccggatggatgcaacttcagaggggaatcgcaaa-tcacttatgaggtggtcatga
+        gaagcacaggcgctcttgggcggccccacacctggctccctcctggccgtaccgtcgctcgagcgccccgcgtggcgg-cggggcggcgacggccgcccc
+                                                                                                 *          
+
+Query   FVRSDKPKLFR <---Intron---> GLQIKYVRGSDPVLKLLDDSGNIAEELSILKWNTDSVEEFLSEKLERL
+        |/ /   | // <   115bp    >   ///|  |  | / | ///| / ||/|/  | |//||||| ||| ||
+Target  FLETSADK-YK                NFEVRYKNGVAPTMLLENEAGEVEEEMSLSHWKTENVEEFLQEKLIRL
+        tcgaagga-ta                atggataagggcaaccgaggggggggatctctaagagggttcgacacc
+        ttacgcaa-aa                atatgaaagtccctttaaacgataaatctcagacaataattaaattgt
+        ccggttcg-c                gttggacgtcgagcggagtggaggaaggccccggagcgagtgggacccg
+                                                                                   
+ Sequence until next stop: 
+GAGTAG
+ E  * 
+
+ Distance CDS-SECIS: 77 ; UGA-SECIS: 281
+
+------- SECIS element -- id:133 -- grade:A ----
+ Chromosome = scaffold_6 Strand = + Positions = 1588812 - 1588888
+ Found by:  Infernal (score=15.23) Covels (score=19.31)
+ Stem2 length = 8   Apical loop length = 20   Insertion in stem2 = 0, 0
+ Free Energy = -14.2
+
+         ..(((((((.......(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ....((({((......{[[{(((({(({((....................))}))}))))}]]}----...))})))....
+ target  CUGGUCCCCGCACUCAUGACGCGCUCACCCACAGCGGCAAACCAUGCCGCGGAUGUGUGCUGAC----ACCUGAGGAAGAU
+                         ****                                        ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:150   SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-36
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 12-169  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_8 Strand: +
+ Positions:
+ -Exon 1  2426339      2426797
+
+ Redox box: no
+
+Query   YEFTVKDIN-GVDVSLEKYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSD
+        |||| /|// | /| |  /|| | |/ ||| /|||||//|//   // ||  ||  /||||| ||||||    |/|/ ||  ||||/| ||/ //|||  
+Target  YEFTAQDLDTGAEVPLAAFRGKVSLVSNVASQUGATDRSYKKFVALYDRLEAKGFTVLAFPCFQFGGQEFRDNAKIRAFVA-KYGVRFPMFAPVEVNGPG
+        tgtagcgcgaggggccggtcgagtcgtaggtctggagcttaatggctgccggagtagcgtcttctggcgtcgagaacgtgg-atggctcatgcgggagcg
+        aatccaatacgcatctcctggatcttcatccaggccagcaaattctaagtacagtcttctcgtatggaatgaacatgcttc-aagtgtcttcctatagcg
+        cgccagcccgtgggccggcccgacgcccctcaacggcggcggcccgccgcgcgccgcccccccgtggggcccccgcgcctc-atcgcccgcccgggcgac
+                                        *                                                                   
+
+Query   ADDLYKFLKSRQHGTLTNNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLEKK
+        |  |/|||      //| |    |   |||//|/ ||||       /|| |// ||  |
+Target  AHPLFKFL--NPESSITWNFDGQF---LVDQEGKLVKRYGSRAPAEEIERDVLALLGNK
+        gccctatc--acgttaatatggct---cggcggacgactgtcgcgggagcggcgccgaa
+        cacttatt--acacctcgatagat---ttaaagattagagcgcccaatagattcttgaa
+        accccgcc--ctgagcggctcggt---ctcggcggggccgccggcagtggcgtccgccg
+                                                                   
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 60 ; UGA-SECIS: 420
+
+------- SECIS element -- id:150 -- grade:A ----
+ Chromosome = scaffold_8 Strand = + Positions = 2426858 - 2426940
+ Found by:  Infernal (score=15.05) Covels (score=20.8)
+ Stem2 length = 10   Apical loop length = 20   Insertion in stem2 = 0, 0
+ Free Energy = -23.9
+
+         ..(((((((.............(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcg------UuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..(({(({((............{[[{((((((((((....................))))))))))}]]}..--.--))}))}))..
+ target  UUCGUGCAUGCAAGCUCCGAUGUGACGAGGCGCGCCGGAAUGGCACCCGGUGCUAGGGCGCGCCUCCGAUGU--A--CGCGCUCGCG
+                               ****            ^^                          ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:151   SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 4e-41
+ Query name: lcl|UniRef50_Q00277 Glutathione peroxidase n=11 Tax=Schistosomatidae TaxID=31245 RepID=GPX1_SCHMA
+ Query range: 12-169  (total 169)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_213 Strand: -
+ Positions:
+ -Exon 1  53801        54259
+
+ Redox box: no
+
+Query   YEFTVKDIN-GVDVSLEKYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAFPCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSD
+        |||| /|// | /| |  /|| | |/ ||| /|||||//|//   // ||  ||  /||||| ||||||    |/|/ ||  ||||/| ||/ //|||  
+Target  YEFTAQDLDTGAEVPLAAFRGKVSLVSNVASQUGATDRSYKKFVALYDRLEAKGFTVLAFPCFQFGGQEFRDNAKIRAFVA-KYGVRFPMFAPVEVNGPG
+        tgtagcgcgaggggccggtcgagtcgtaggtctggagcttaatggctgccggagtagcgtcttctggcgtcgagaacgtgg-atggctcatgcgggagcg
+        aatccaatacgcatctcctggatcttcatccaggccagcaaattctaagtacagtcttctcgtatggaatgaacatgcttc-aagtgtcttcctatagcg
+        cgccagcccgtgggccggcccgacgcccctcaacggcggcggcccgccgcgcgccgcccccccgtggggcccccgcgcctc-atcgcccgcccgggcgac
+                                        *                                                                   
+
+Query   ADDLYKFLKSRQHGTLTNNIKWNFSKFLVDRQGQPVKRYSPTTAPYDIEGDIMELLEKK
+        |  |/|||      //| |    |   |||//|/ ||||       /|| |// ||  |
+Target  AHPLFKFL--NPESSITWNFDGQF---LVDQEGKLVKRYGSRAPAEEIERDVLALLGNK
+        gccctatc--acgttaatatggct---cggcggacgactgtcgcgggagcggcgccgaa
+        cacttatt--acacctcgatagat---ttaaagattagagcgcccaatagattcttgaa
+        accccgcc--ctgagcggctcggt---ctcggcggggccgccggcagtggcgtccgccg
+                                                                   
+ Sequence until next stop: 
+TAG
+ * 
+
+ Distance CDS-SECIS: 60 ; UGA-SECIS: 420
+
+------- SECIS element -- id:151 -- grade:A ----
+ Chromosome = scaffold_213 Strand = - Positions = 53740 - 53658
+ Found by:  Infernal (score=15.05) Covels (score=20.8)
+ Stem2 length = 10   Apical loop length = 20   Insertion in stem2 = 0, 0
+ Free Energy = -23.9
+
+         ..(((((((.............(((((((((((((((..................)))))))))))))))........)))))))..
+ model   uucggucaugcg------UuaAUGAcGgccuggcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..(({(({((............{[[{((((((((((....................))))))))))}]]}..--.--))}))}))..
+ target  UUCGUGCAUGCAAGCUCCGAUGUGACGAGGCGCGCCGGAAUGGCACCCGGUGCUAGGGCGCGCCUCCGAUGU--A--CGCGCUCGCG
+                               ****            ^^                          ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:32    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: e-134
+ Query name: lcl|UniRef50_Q9Z0J5-2 Isoform 2 of Thioredoxin reductase 2, mitochondrial n=298 Tax=Euteleostomi TaxID=117571 RepID=Q9Z0J5-2
+ Query range: 5-491  (total 491)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_6 Strand: -
+ Positions:
+ -Exon 1  2752620      2753777
+ -Exon 2  2752169      2752477
+
+ Redox box: no
+
+Query   QNFDLLVIGGGSGGLACAKEAAQLGRKVAVADYVEPSPRGTKWGLGGTCVNVGCIPKKLMHQAALLGGMIRDAQHYGWEV-AQPVQHNWKAMAEAVQNHV
+        / |||/||||||||||||/|||/||//||| |/| ||  || ||||||||||||||||||| || || /|/|| |/||//   |  |/| ||   || |/
+Target  EEFDLVVIGGGSGGLACAQEAARLGKRVAVCDFVTPSAAGTTWGLGGTCVNVGCIPKKLMHHAANLGELIKDAPHFGWKLDPDPPGHSWGAMVSNVQMHI
+        ggtgcggagggtggcgtgcgggctgacgggtgtgactgggaatgcggatgaggtacaacaccggacggcaaggcctgtacgcgccgcttggagtagcaca
+        aatattttgggcggtcgcaaccgtgagtctgattcccccgccggtggcgtatggtcaattaaccatgattaaccatggatacaccgacggcttcatatat
+        ggtcccccttttcgtgccgggacgggcgtccttcggccacccgcgtcgcgcaccacggcgcctgccggccaccctccggccctcggtagtgggctgggcc
+                                                                                                            
+
+Query   KSLNWGHRVQLQDRKVKYFNIKASFVNEHTVHGVDKAGKVTQLSAKHIVIATGGRPKYPTQVKGALEHGITSDDIFWLKESPGKTLVVGASYVALECAGF
+        ||||/|/|/ |     /| |  | | /  ||   |  |    | |   ||||||||/|   | |  || ||||||| /  /||||| /|  |||||||||
+Target  KSLNFGYRMALMSADAEYINAYARFEDARTVRCTDANGDQRLLRASAFVIATGGRPRYLDAVPGGREHVITSDDIFSMGSAPGKTLCIGGGYVALECAGF
+        atcatgtcagcaaggggtaagtgctgggcagataggaggcccccgtgtgagaggccctcgggcggcgcgaatggattagtgcgaactagggtggcgtggt
+        actatgagtcttgcacaatacacgtaacgctggcacagaagttgccctttccgggcgatactcgggaattccaattctgcccgactgtgggatctagcgt
+        gccccccggccgcgcggcccctggcgcgggcgcgtgtccgtcccagccctctactgccgccctttagcccgcccccagtccaggcgcctgctggcgctgc
+                                                                                                            
+
+Query   LTGIGLDTTVMMRSVPLRGFDQQMASLVTEHMESHGTRFLKGCVPSLIRKLP-TNQLQVTWEDLASGKEDVGTFDTVLWAIGRVPETRNLNLEKAGVNTN
+        | |/|//| ||/||  || ||/|||  |  ||// | /||   ||/ | //| / /|/|/|/        |  /|||| |/||  || /| ||||||/ |
+Target  LHGLGMETHVMVRSRALREFDEQMAEAVVSHMQTSGVKFLDKAVPASIERVPDSGKLRVSWKRAGDETTHVEVYDTVLVAVGRTAETAHLGLEKAGVDIN
+        ccgcgagacgagctcgccgtggcagggggtcacatggatcgaggcgtagcgcgtgaccgttacggggaacgggtgagcggggcaggagccgcgaggggaa
+        tagtgtacatttgcgctgataaatcacttcataccgtattaactccctagtcacgatgtcgagcgaaccatataactttctggccaccatgtaacgtata
+        gtggcgggccgcgcccccgttgggggtggatggccaggcgtgtgccccgcgccccgttcgggtggcgcgcgggcccgtgtccgttgcgtgctaggcgccc
+                                                                                                            
+
+Query   PKNQKIIVDAQEATSVPHIYAIGDVAEGRPELTPTAIKAGKLLAQRLFGKSSTLMNYSNVPTTVFTPLEYGCVGLSEEEAVALHGQ <---Intron---
+        |/| |/|  / | |/   ||||||||/|/||||| ||/||/ ||/|||  //  |/|//|||||||||||  ||//||/||   |/ <   142bp    
+Target  PENSKVITSSNEETTARGIYAIGDVADGKPELTPVAIQAGRFLARRLFDGATQEMDYAHVPTTVFTPLEYASVGMTEEQAVDALGE              
+        cgatagaattaggaagcgatgaggggggacgcacggacggatcgccctgggacgagtgcgcaagtaccgtgaggaaggcggggcgg              
+        caacattcccaaacccggtactgatcagacatcctctacggttcggttagccaataacatcccttcctaacgtgtcaaactactga              
+        caccgcccgccgggggactccctccgtgacggtcgccaaagcctgcgtccggaggccgtggatcctccgccctcgcaggcccgtcg              
+                                                                                                            
+
+Query   > EHIEVYHAYYKPLEFTVADRDASQCYIKMVCMREPPQLVLGLHFLGPNAGEVTQGFALGIQCGASYAQVMQTVGIHPTCSEEVVKLHISKRSGLDPTV
+        > / /||/|/||/|||///  |  / ||/|//| ||    |/|||  ||/|||/ ||||| |/ |         |||||| /| || | ||||||/||  
+Target    DGVEVFHSYYRPLEWSLPHRPDNACYVKLICDREDDLRVVGLHICGPHAGEILQGFALAIKTGCHKRDFDIVVGIHPTDAENVVDLSISKRSGVDPRK
+          gggggtctttcccgttcccacgagttgacatgcgggtcgggccatgccgggatcgtgcgaaagtcacgtgagggaccagggagggctatactgggcca
+          agtattacaagctagctcagcaacgatattgagaaatgttgtatggcacgattagtctctacggaagatatttgtaccacaattatctcagcgtacga
+          caggtccgtccctggtcccgtttgcccgccccggctaacccgcctcgcgagcggctgcccaaaccgcccttccgcctaccaccccgtagagaagtccg
+                                                                                                            
+
+Query   TGCUG
+         ||||
+Target  LGCUG
+        cgttg
+        tgggg
+        accag
+           * 
+ Sequence until next stop: 
+TAA
+ * 
+
+ Distance CDS-SECIS: 142 ; UGA-SECIS: 145
+
+------- SECIS element -- id:32 -- grade:B ----
+ Chromosome = scaffold_6 Strand = - Positions = 2752026 - 2751943
+ Found by:  Infernal (score=19.45) Covels (score=6.99)
+ Stem2 length = 9   Apical loop length = 22   Insertion in stem2 = 2, 0
+ Free Energy = -20.6
+
+         ..(((((((.........((((((((((((..(((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg--UuaAUGAcGgccuggc--ccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ...(((((((((......{[[{(((((({(..((......................)))}))))))}]]}..--))-)))))))...
+ target  GCAGGCCAAGAGUGUUCGUGACGGUGCAUGCCGCUCAAGGUGAACCCCAAUCACCUGCCCUGCACCUGAUUC--CU-UUUGGCCCAG
+                           ****              ^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:33    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: e-134
+ Query name: lcl|UniRef50_Q9Z0J5-2 Isoform 2 of Thioredoxin reductase 2, mitochondrial n=298 Tax=Euteleostomi TaxID=117571 RepID=Q9Z0J5-2
+ Query range: 5-491  (total 491)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_7 Strand: +
+ Positions:
+ -Exon 1  2167539      2168696
+ -Exon 2  2168839      2169147
+
+ Redox box: no
+
+Query   QNFDLLVIGGGSGGLACAKEAAQLGRKVAVADYVEPSPRGTKWGLGGTCVNVGCIPKKLMHQAALLGGMIRDAQHYGWEV-AQPVQHNWKAMAEAVQNHV
+        / |||/||||||||||||/|||/||//||| |/| ||  || ||||||||||||||||||| || || /|/|| |/||//   |  |/| ||   || |/
+Target  EEFDLVVIGGGSGGLACAQEAARLGKRVAVCDFVTPSAAGTTWGLGGTCVNVGCIPKKLMHHAANLGELIKDAPHFGWKLDPDPPGHSWGAMVSNVQMHI
+        ggtgcggagggtggcgtgcgggctgacgggtgtgactgggaatgcggatgaggtacaacaccggacggcaaggcctgtacgcgccgcttggagtagcaca
+        aatattttgggcggtcgcaaccgtgagtctgattcccccgccggtggcgtatggtcaattaaccatgattaaccatggatacaccgacggcttcatatat
+        ggtcccccttttcgtgccgggacgggcgtccttcggccacccgcgtcgcgcaccacggcgcctgccggccaccctccggccctcggtagtgggctgggcc
+                                                                                                            
+
+Query   KSLNWGHRVQLQDRKVKYFNIKASFVNEHTVHGVDKAGKVTQLSAKHIVIATGGRPKYPTQVKGALEHGITSDDIFWLKESPGKTLVVGASYVALECAGF
+        ||||/|/|/ |     /| |  | | /  ||   |  |    | |   ||||||||/|   | |  || ||||||| /  /||||| /|  |||||||||
+Target  KSLNFGYRMALMSADAEYINAYARFEDARTVRCTDANGDQRLLRASAFVIATGGRPRYLDAVPGGREHVITSDDIFSMGSAPGKTLCIGGGYVALECAGF
+        atcatgtcagcaaggggtaagtgctgggcagataggaggcccccgtgtgagaggccctcgggcggcgcgaatggattagtgcgaactagggtggcgtggt
+        actatgagtcttgcacaatacacgtaacgctggcacagaagttgccctttccgggcgatactcgggaattccaattctgcccgactgtgggatctagcgt
+        gccccccggccgcgcggcccctggcgcgggcgcgtgtccgtcccagccctctactgccgccctttagcccgcccccagtccaggcgcctgctggcgctgc
+                                                                                                            
+
+Query   LTGIGLDTTVMMRSVPLRGFDQQMASLVTEHMESHGTRFLKGCVPSLIRKLP-TNQLQVTWEDLASGKEDVGTFDTVLWAIGRVPETRNLNLEKAGVNTN
+        | |/|//| ||/||  || ||/|||  |  ||// | /||   ||/ | //| / /|/|/|/        |  /|||| |/||  || /| ||||||/ |
+Target  LHGLGMETHVMVRSRALREFDEQMAEAVVSHMQTSGVKFLDKAVPASIERVPDSGKLRVSWKRAGDETTHVEVYDTVLVAVGRTAETAHLGLEKAGVDIN
+        ccgcgagacgagctcgccgtggcagggggtcacatggatcgaggcgtagcgcgtgaccgttacggggaacgggtgagcggggcaggagccgcgaggggaa
+        tagtgtacatttgcgctgataaatcacttcataccgtattaactccctagtcacgatgtcgagcgaaccatataactttctggccaccatgtaacgtata
+        gtggcgggccgcgcccccgttgggggtggatggccaggcgtgtgccccgcgccccgttcgggtggcgcgcgggcccgtgtccgttgcgtgctaggcgccc
+                                                                                                            
+
+Query   PKNQKIIVDAQEATSVPHIYAIGDVAEGRPELTPTAIKAGKLLAQRLFGKSSTLMNYSNVPTTVFTPLEYGCVGLSEEEAVALHGQ <---Intron---
+        |/| |/|  / | |/   ||||||||/|/||||| ||/||/ ||/|||  //  |/|//|||||||||||  ||//||/||   |/ <   142bp    
+Target  PENSKVITSSNEETTARGIYAIGDVADGKPELTPVAIQAGRFLARRLFDGATQEMDYAHVPTTVFTPLEYASVGMTEEQAVDALGE              
+        cgatagaattaggaagcgatgaggggggacgcacggacggatcgccctgggacgagtgcgcaagtaccgtgaggaaggcggggcgg              
+        caacattcccaaacccggtactgatcagacatcctctacggttcggttagccaataacatcccttcctaacgtgtcaaactactga              
+        caccgcccgccgggggactccctccgtgacggtcgccaaagcctgcgtccggaggccgtggatcctccgccctcgcaggcccgtcg              
+                                                                                                            
+
+Query   > EHIEVYHAYYKPLEFTVADRDASQCYIKMVCMREPPQLVLGLHFLGPNAGEVTQGFALGIQCGASYAQVMQTVGIHPTCSEEVVKLHISKRSGLDPTV
+        > / /||/|/||/|||///  |  / ||/|//| ||    |/|||  ||/|||/ ||||| |/ |         |||||| /| || | ||||||/||  
+Target    DGVEVFHSYYRPLEWSLPHRPDNACYVKLICDREDDLRVVGLHICGPHAGEILQGFALAIKTGCHKRDFDIVVGIHPTDAENVVDLSISKRSGVDPRK
+          gggggtctttcccgttcccacgagttgacatgcgggtcgggccatgccgggatcgtgcgaaagtcacgtgagggaccagggagggctatactgggcca
+          agtattacaagctagctcagcaacgatattgagaaatgttgtatggcacgattagtctctacggaagatatttgtaccacaattatctcagcgtacga
+          caggtccgtccctggtcccgtttgcccgccccggctaacccgcctcgcgagcggctgcccaaaccgcccttccgcctaccaccccgtagagaagtccg
+                                                                                                            
+
+Query   TGCUG
+         ||||
+Target  LGCUG
+        cgttg
+        tgggg
+        gccag
+           * 
+ Sequence until next stop: 
+TAA
+ * 
+
+ Distance CDS-SECIS: 142 ; UGA-SECIS: 145
+
+------- SECIS element -- id:33 -- grade:B ----
+ Chromosome = scaffold_7 Strand = + Positions = 2169290 - 2169373
+ Found by:  Infernal (score=19.45) Covels (score=6.99)
+ Stem2 length = 9   Apical loop length = 22   Insertion in stem2 = 2, 0
+ Free Energy = -20.6
+
+         ..(((((((.........((((((((((((..(((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg--UuaAUGAcGgccuggc--ccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ...(((((((((......{[[{(((((({(..((......................)))}))))))}]]}..--))-)))))))...
+ target  GCAGGCCAAGAGUGUUCGUGACGGUGCAUGCCGCUCAAGGUGAACCCCAAUCACCUGCCCUGCACCUGAUUC--CU-UUUGGCCCAG
+                           ****              ^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:82    SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-28
+ Query name: lcl|UniRef50_A8JGP7 Selenoprotein H n=4 Tax=core chlorophytes TaxID=2692248 RepID=A8JGP7_CHLRE
+ Query range: 13-126  (total 128)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_44 Strand: +
+ Positions:
+ -Exon 1  1291516      1291863
+
+ Redox box: YES
+
+Query   APAKKAKAPAKKKEAEKKEETAPVAAD-AGDGIVIEACKSUGAFKTRATKLEKLIKEGAPGTSVSVNPDKPRKGCFEVR-GPGGKTFVSLLDMPRPFTKL
+        || /|/ | /    |/| /  |  |   ||  / |||||||||||||| |||||||/  ||  |//| /|||||||||  |   |  ||| ||||||/||
+Target  APKRKSPAASSGSAAKKSKNPAGEAGPAAGLSVHIEACKSUGAFKTRAAKLEKLIKDQVPGADVTINKEKPRKGCFEVTVGGQDKPIVSLKDMPRPFSKL
+        gcacatcggttgtggaataacgggggcgggcagcaggtaatggtaacggacgacaagcgcggggaaaagaccagttggagggcgacagtcagacccttac
+        ccagaccccccgcccaacaaccgacgcccgtgtatacgagggctacgccataattaaatcgcatctaaaacgaggtatctggaaacttctaatcgctcat
+        tggcgcgcgccccggggcgccgcgggctgccttccggcgcacgcgtgtcgtggccgtactcgcgcccggggcgcccgggggagtgcccccgcggccccgc
+                                                *                                                           
+
+Query   KALDVEALAEEVLAAL
+        ||| /| /||//  ||
+Target  KALTIEDVAEDIKKAL
+        agcaaggggggaaagc
+        actctaatcaataact
+        gccccgcacgccggct
+                        
+ Sequence until next stop: 
+GGCAACTAG
+ G  N  * 
+
+ Distance CDS-SECIS: 264 ; UGA-SECIS: 489
+
+------- SECIS element -- id:82 -- grade:B ----
+ Chromosome = scaffold_44 Strand = + Positions = 1292128 - 1292207
+ Found by:  Infernal (score=16.13) Covels (score=10.86)
+ Stem2 length = 12   Apical loop length = 19   Insertion in stem2 = 0, 0
+ Free Energy = -23.9
+
+         ..(((((((.......(((((((((((((((.....................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC------cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ...(((([((......{[[[((([((((((((...................))))))))])))]]]}----...))]))))...
+ target  CAGGGUGAGAAGCACAUGAAGCCAGGGCGUGCAAGCGACGGGAUUCCCGCCGUGCGCCCGGGCGGAU----CGAUUGCGCCAAC
+                         ****            ^^                             ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:130   SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-28
+ Query name: lcl|UniRef50_A8JGP7 Selenoprotein H n=4 Tax=core chlorophytes TaxID=2692248 RepID=A8JGP7_CHLRE
+ Query range: 11-126  (total 128)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_45 Strand: -
+ Positions:
+ -Exon 1  144167       144520
+
+ Redox box: YES
+
+Query   AEAPAKKAKAPAKKKEAEKKEETAPVAAD-AGDGIVIEACKSUGAFKTRATKLEKLIKEGAPGTSVSVNPDKPRKGCFEVR-GPGGKTFVSLLDMPRPFT
+        | || /|/ | /    |/| /  |  |   ||  / |||||||||||||| |||||||/  ||  |//| /|||||||||  |   |  ||| ||||||/
+Target  AMAPKRKSPAASSGSAAKKSKNPAGEAGPAAGLSVHIEACKSUGAFKTRAAKLEKLIKDQVPGADVTINKEKPRKGCFEVTVGGQDKPIVSLKDMPRPFS
+        gagcacatcggttgtggaataacgggggcgggcagcaggtaatggtaacggacgacaagcgcggggaaaagaccagttggagggcgacagtcagaccctt
+        ctccagaccccccgcccaacaaccgacgcccgtgtatacgagggctacgccataattaaatcgcatctaaaacgaggtatctggaaacttctaatcgctc
+        agtggcgcgcgccccggggcgccgcggactgccttccggcgcacgcgtgtcgtggccgtactcgcgcccggggcgcccgggggagtgcccccgcggcccc
+                                                  *                                                         
+
+Query   KLKALDVEALAEEVLAAL
+        ||||| /| /||//  ||
+Target  KLKALTIEDVAEDIKKAL
+        acagcaaggggggaaagc
+        atactctaatcaataact
+        gcgccccgcacgccggct
+                          
+ Sequence until next stop: 
+GGCAACTAA
+ G  N  * 
+
+ Distance CDS-SECIS: 265 ; UGA-SECIS: 490
+
+------- SECIS element -- id:130 -- grade:B ----
+ Chromosome = scaffold_45 Strand = - Positions = 143901 - 143822
+ Found by:  Infernal (score=15.32) Covels (score=10.28)
+ Stem2 length = 12   Apical loop length = 19   Insertion in stem2 = 0, 0
+ Free Energy = -21.2
+
+         ..(((((((.......(((((((((((((((.....................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccuggcccuAAAcC------cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ...(((([((......{[[[((([((((((((...................))))))))])))]]]}----...))]))))...
+ target  CAGGGUGAGAAGCACAUGAAGUCAGGGCGUGCAAGCGACGGGAUUCCCGCCGUGCGCCCGGGCGGAU----CGAUUGCGCCAAC
+                         ****            ^^                             ****                 
+_________________________________.______________________._____________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:192   SeB_blast category:ALI_C |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_____________________________________________________________________________
+
+ Blastx evalue: 4e-06
+ Query name: lcl|UniRef50_A8E0R8 Thioredoxin-glutathione reductase n=6 Tax=Digenea TaxID=6179 RepID=A8E0R8_FASHE
+ Query range: 8-104  (total 598)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_29 Strand: -
+ Positions:
+ -Exon 1  76271        76576
+
+ Redox box: YES
+
+Query   TSSWVKKTINSSAVLLFSKSRCPYCRAVKQIFNDDKVNHAVIELDKRPDGAKIQQVLSQISGISTVPQVFVRGEFV-----GDSSTISKLKKEDKLTEVI
+        | / //  |  / ||/ | |  |/|   ||  /   |// |/||//  /|  //  |// /| //|| |/|/| ||     |    /  | |/ /|  //
+Target  TRAELENLIEDNTVLMLSFSTUPFCVRAKQALDAKGVDYEVVELNQVANGYPLRAELAEKTGRTSVPAVWVKGAFVGGCNDGGLGGVLTLDKDGRLDAML
+        acggcgacaggaagcacattatcttgcgacgcggagggtggggcacggagtcccggcggaagcaagcggtgaggtgggtagggcgggcacgaggccggac
+        cgcataattaaacttttgtccgctgtgcaactacagtaaattataatcagactgcatcaacggcgtcctgtagcttgggaaggtggttctaaaggtactt
+        ccggcgcccgccggcgccccgacccgccggtctcgcgccagggccggccccggcagtggggccccgccggcgcctgccccccggcgcctgcgcccgccgc
+                             *                                                                              
+
+Query   KK
+        |/
+Target  KE
+        ag
+        aa
+        ga
+          
+ Sequence until next stop: 
+GCTGGTGCCATGGCGTAA
+ A  G  A  M  A  * 
+
+ Distance CDS-SECIS: 88 ; UGA-SECIS: 328
+
+------- SECIS element -- id:192 -- grade:B ----
+ Chromosome = scaffold_29 Strand = - Positions = 76182 - 76093
+ Found by:  Infernal (score=14.59)
+ Stem2 length = 11   Apical loop length = 25   Insertion in stem2 = 0, 1
+ Free Energy = -30.4
+
+         ..(((((((........((((((((((.(((((.........................)))))..))))))))))........)))))))..
+ model   uucggucaugcg-UuaAUGAcGgccug-gcccuAAAcC----------cuuuuuggggcgggc--caggcCuGAUGuuuuuucaugaccggc
+         ...((((((((((....{[[{(((((({(((((.........................))))).}))))))}]]}..--))))))))))...
+ target  AGCGGUGUCGCGGGAUGUGACGGGCUGUCGUGGAAACGUGCGCGCAAUUGGACGCGCACCACGCUCAGCCUUGACGA--UUGCGACACCAGC
+                          ****            ^^^                                   ****                 
+_________________________________.______________________._____________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:195   SeB_blast category:ALI_C |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_____________________________________________________________________________
+
+ Blastx evalue: 4e-06
+ Query name: lcl|UniRef50_A8E0R8 Thioredoxin-glutathione reductase n=6 Tax=Digenea TaxID=6179 RepID=A8E0R8_FASHE
+ Query range: 8-104  (total 598)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_98 Strand: -
+ Positions:
+ -Exon 1  132255       132560
+
+ Redox box: YES
+
+Query   TSSWVKKTINSSAVLLFSKSRCPYCRAVKQIFNDDKVNHAVIELDKRPDGAKIQQVLSQISGISTVPQVFVRGEFV-----GDSSTISKLKKEDKLTEVI
+        | / //  |  / ||/ | |  |/|   ||  /   |// |/||//  /|  //  |// /| //|| |/|/| ||     |    /  | |/ /|  //
+Target  TRAELENLIEDNTVLMLSFSTUPFCVRAKQALDAKGVDYEVVELNQVANGYPLRAELAEKTGRTSVPAVWVKGAFVGGCNDGGLGGVLTLDKDGRLDAML
+        acggcgacaggaagcacattatcttgcgacgcggagggtggggcacggagtcccggcggaagcaagcggtgaggtgggtagggcgggcacgaggccggac
+        cgcataattaaacttttgtccgctgtgcaactacagtaaattataatcagactgcatcaacggcgtcctgtagcttgggaaggtggttctaaaggtactt
+        ccggcgcccgccggcgccccgacccgccggtctcgcgccagggccggccccggcagtggggccccgccggcgcctgccccccggcgcctgcgcccgccgc
+                             *                                                                              
+
+Query   KK
+        |/
+Target  KE
+        ag
+        aa
+        ga
+          
+ Sequence until next stop: 
+GCTGGTGCCATGGCGTAA
+ A  G  A  M  A  * 
+
+ Distance CDS-SECIS: 88 ; UGA-SECIS: 328
+
+------- SECIS element -- id:195 -- grade:B ----
+ Chromosome = scaffold_98 Strand = - Positions = 132166 - 132077
+ Found by:  Infernal (score=14.59)
+ Stem2 length = 11   Apical loop length = 25   Insertion in stem2 = 0, 1
+ Free Energy = -30.4
+
+         ..(((((((........((((((((((.(((((.........................)))))..))))))))))........)))))))..
+ model   uucggucaugcg-UuaAUGAcGgccug-gcccuAAAcC----------cuuuuuggggcgggc--caggcCuGAUGuuuuuucaugaccggc
+         ...((((((((((....{[[{(((((({(((((.........................))))).}))))))}]]}..--))))))))))...
+ target  AGCGGUGUCGCGGGAUGUGACGGGCUGUCGUGGAAACGUGCGCGCAAUUGGACGCGCACCACGCUCAGCCUUGACGA--UUGCGACACCAGC
+                          ****            ^^^                                   ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1046  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-27
+ Query name: lcl|UniRef50_A0A1S3H5G1 Iodothyronine deiodinase n=2 Tax=Lingula unguis TaxID=7574 RepID=A0A1S3H5G1_LINUN
+ Query range: 102-242  (total 249)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_31 Strand: +
+ Positions:
+ -Exon 1  1543384      1543644
+ -Exon 2  1543681      1543818
+
+ Redox box: no
+
+Query   DKSKCRLLDFAKPGRPLVVNFGSCSUPPFIAKLDAFKELVTKFADIADFITIYIQEAHPFEGWYIATKRYNLHRHKTLEDRCQAAAML <---Intron-
+        / |    /  |   ||||/|||||/||||/  |/|| / |    |  ||  /|/||||| /|| / /| | |  | /| || ||| || <    36bp  
+Target  ESSSLETVAKASGSRPLVLNFGSCTUPPFMEALEAFAQTVALHRDRVDFCFVYVQEAHPTDGWDVGSK-YRLAAHTSLNDRLQAAQML            
+        gatacgaggagagtaccgcatgttatcctaggcggtgcaggcccgcggtttgtgcggccaggtgggta-tccggcaacagcccggcac            
+        agcgtactcacggcgctttatgcgcgccttactactcactctagagtatgttataacaccaggatgca-agtccacgtaagtaccatt            
+        gcctcgcgcggtcaggctcctcccaacgcggccgccagcgttccccgccctcccgagccgccgccctg-ctttgcgtgcctcatgagc            
+                                 *                                                                          
+
+Query   --> DEENLSCPLLVDGMDNAAQRAYGAFPERLYIVKDGRVAYEGGLGPDKYRLEEV
+          >        ||||||||//    /|| |||| |// ||/ / || ||  | / |/
+Target      -------PLLVDGMDDSLSELFGAAPERLAIIRHGRLLWLGGRGPMFYSVAEL
+            -------cccgggaggttagctgggcgccgaaccgctctcggcgcattagggc
+            -------ctttagtaactgattgcccagtcttgaggttgtggggcttagtcat
+            -------cccgccgcttgcgacccgcggccccccccaagcccctagcccgagg
+                                                                 
+ Sequence until next stop: 
+AACAAGGCACTCACCGGTGTGCTGAAGGGTGAGGATCCCTAA
+ N  K  A  L  T  G  V  L  K  G  E  D  P  * 
+
+ Distance CDS-SECIS: 76 ; UGA-SECIS: 397
+
+------- SECIS element -- id:1046 -- grade:B ----
+ Chromosome = scaffold_31 Strand = + Positions = 1543895 - 1543981
+ Found by:  Infernal (score=10.85) Covels (score=7.75)
+ Stem2 length = 9   Apical loop length = 27   Insertion in stem2 = 1, 0
+ Free Energy = -11.5
+
+         ..(((((((.......((((((((((.(((((...........................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccug-gcccuAAAcC------------cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..([{((((.......([[{({(({.((((((...........................))))))}))})}]])----....))))}])..
+ target  CUCGAUGGACACACCAUGACGAAGCAGCGACGAAAGCCCCUCUGAUGCUCAUCAUGGGCUGUCGCUCUCCUGAA----CUAUUCCACAGUG
+                         ****            ^^^                                   ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1047  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 2e-27
+ Query name: lcl|UniRef50_A0A1S3H5G1 Iodothyronine deiodinase n=2 Tax=Lingula unguis TaxID=7574 RepID=A0A1S3H5G1_LINUN
+ Query range: 102-242  (total 249)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_35 Strand: -
+ Positions:
+ -Exon 1  321258       321518
+ -Exon 2  321084       321221
+
+ Redox box: no
+
+Query   DKSKCRLLDFAKPGRPLVVNFGSCSUPPFIAKLDAFKELVTKFADIADFITIYIQEAHPFEGWYIATKRYNLHRHKTLEDRCQAAAML <---Intron-
+        / |    /  |   ||||/|||||/||||/  |/|| / |    |  ||  /|/||||| /|| / /| | |  | /| || ||| || <    36bp  
+Target  ESSSLETVAKASGSRPLVLNFGSCTUPPFMEALEAFAQTVALHRDRVDFCFVYVQEAHPTDGWDVGSK-YRLAAHTSLNDRLQAAQML            
+        gatacgaggagagtaccgcatgttatcctaggcggtgcaggcccgcggtttgtgcggccaggtgggta-tccggcaacagcccggcac            
+        agcgtactcacggcgctttatgcgcgccttactactcactctagagtatgttataacaccaggatgca-agtccacgtaagtaccatt            
+        gcctcgcgcggtcaggctcctcccaacgcggccgccagcgttccccgccctcccgagccgccgccctg-ctttgcgtgcctcatgagc            
+                                 *                                                                          
+
+Query   --> DEENLSCPLLVDGMDNAAQRAYGAFPERLYIVKDGRVAYEGGLGPDKYRLEEV
+          >        ||||||||//    /|| |||| |// ||/ / || ||  | / |/
+Target      -------PLLVDGMDDSLSELFGAAPERLAIIRHGRLLWLGGRGPMFYSVAEL
+            -------cccgggaggttagctgggcgccgaaccgctctcggcgcattagggc
+            -------ctttagtaactgattgcccagtcttgaggttgtggggcttagtcat
+            -------cccgccgcttgcgacccgcggccccccccaagcccctagcccgagg
+                                                                 
+ Sequence until next stop: 
+AACAAGGCACTCACCGGTGTGCTGAAGGGTGAGGATCCCTAA
+ N  K  A  L  T  G  V  L  K  G  E  D  P  * 
+
+ Distance CDS-SECIS: 76 ; UGA-SECIS: 397
+
+------- SECIS element -- id:1047 -- grade:B ----
+ Chromosome = scaffold_35 Strand = - Positions = 321007 - 320921
+ Found by:  Infernal (score=10.85) Covels (score=7.75)
+ Stem2 length = 9   Apical loop length = 27   Insertion in stem2 = 1, 0
+ Free Energy = -11.5
+
+         ..(((((((.......((((((((((.(((((...........................)))))))))))))))........)))))))..
+ model   uucggucaugcgUuaAUGAcGgccug-gcccuAAAcC------------cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ..([{((((.......([[{({(({.((((((...........................))))))}))})}]])----....))))}])..
+ target  CUCGAUGGACACACCAUGACGAAGCAGCGACGAAAGCCCCUCUGAUGCUCAUCAUGGGCUGUCGCUCUCCUGAA----CUAUUCCACAGUG
+                         ****            ^^^                                   ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1151  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-19
+ Query name: lcl|UniRef50_D8LCS4 Selenoprotein W n=1 Tax=Ectocarpus siliculosus TaxID=2880 RepID=D8LCS4_ECTSI
+ Query range: 36-146  (total 146)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_16 Strand: -
+ Positions:
+ -Exon 1  151689       152024
+
+ Redox box: YES
+
+Query   VDIRSLNASAGMSTTTAGRGEDVAEIEIMYCGGUGYVRFYNRLTPQLEAVFGDRISFIQTEDPGVTGRFEVVLRNT-GELLHSKKTRGQGRCEDPREVQA
+        |  /|  //   /  || /    | / / ||||||| |//  |  //   |||//|     ||| || ||| |     ||/||| |||||/||   |/ |
+Target  VTEKSAGSTTKAAPPTAAKAAAQALVTVQYCGGUGYDRYFYALKAEITNKFGDKVSVEPRRDPGKTGNFEVRLVGAKEELIHSKVTRGQGKCESEAEIDA
+        gagatggtaaaggccaggagggcgcgagcttggtgtgctttgcaggaaaatggagtggcccgcgaagatggccgggaggcactagacgcgatgtgggagg
+        tcaaccgcccacccccccacccacttctaagggggaagatactacatcaatgaatctacggacgacgatatgttgcaaattacatcggagagacacatac
+        cgagtaccccggagcaccaggagcccgggcccaagccccccgcgtgcccgttcggcggcctcgcggcctgcctggcgggccccggcgtgcgtgcgggtct
+                                         *                                                                  
+
+Query   LVDQIQKFLDSS
+        //|/|/  || |
+Target  VLDKIEAHLDGS
+        gcgaaggccggt
+        ttaatacatagc
+        gccgcgacgcgc
+                    
+ Sequence until next stop: 
+AAGTAA
+ K  * 
+
+ Distance CDS-SECIS: 68 ; UGA-SECIS: 302
+
+------- SECIS element -- id:1151 -- grade:B ----
+ Chromosome = scaffold_16 Strand = - Positions = 151620 - 151532
+ Found by:  Infernal (score=10.71) Covels (score=13.49)
+ Stem2 length = 8   Apical loop length = 24   Insertion in stem2 = 0, 0
+ Free Energy = -16.0
+
+         ..(((((((................(((((((((((((((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg---------UuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ((({(((((................([[{(((({((((........................))))}))))}]])..--..-.)))))})))
+ target  UGGCGCCGCGCGCGAUCACGCGACAUGACGAACACAUCACAAAGGCUCCCAUCCGGGUGUCCGGUGCGUUCCGAGGA--CG-GGCGGCUUCG
+                                  ****           ^^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1152  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-19
+ Query name: lcl|UniRef50_D8LCS4 Selenoprotein W n=1 Tax=Ectocarpus siliculosus TaxID=2880 RepID=D8LCS4_ECTSI
+ Query range: 36-146  (total 146)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_17 Strand: -
+ Positions:
+ -Exon 1  151689       152024
+
+ Redox box: YES
+
+Query   VDIRSLNASAGMSTTTAGRGEDVAEIEIMYCGGUGYVRFYNRLTPQLEAVFGDRISFIQTEDPGVTGRFEVVLRNT-GELLHSKKTRGQGRCEDPREVQA
+        |  /|  //   /  || /    | / / ||||||| |//  |  //   |||//|     ||| || ||| |     ||/||| |||||/||   |/ |
+Target  VTEKSAGSTTKAAPPTAAKAAAQALVTVQYCGGUGYDRYFYALKAEITNKFGDKVSVEPRRDPGKTGNFEVRLVGAKEELIHSKVTRGQGKCESEAEIDA
+        gagatggtaaaggccaggagggcgcgagcttggtgtgctttgcaggaaaatggagtggcccgcgaagatggccgggaggcactagacgcgatgtgggagg
+        tcaaccgcccacccccccacccacttctaagggggaagatactacatcaatgaatctacggacgacgatatgttgcaaattacatcggagagacacatac
+        cgagtaccccggagcaccaggagcccgggcccaagccccccgcgtgcccgttcggcggcctcgcggcctgcctggcgggccccggcgtgcgtgcgggtct
+                                         *                                                                  
+
+Query   LVDQIQKFLDSS
+        //|/|/  || |
+Target  VLDKIEAHLDGS
+        gcgaaggccggt
+        ttaatacatagc
+        gccgcgacgcgc
+                    
+ Sequence until next stop: 
+AAGTAA
+ K  * 
+
+ Distance CDS-SECIS: 68 ; UGA-SECIS: 302
+
+------- SECIS element -- id:1152 -- grade:B ----
+ Chromosome = scaffold_17 Strand = - Positions = 151620 - 151532
+ Found by:  Infernal (score=10.71) Covels (score=13.49)
+ Stem2 length = 8   Apical loop length = 24   Insertion in stem2 = 0, 0
+ Free Energy = -16.0
+
+         ..(((((((................(((((((((((((((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg---------UuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ((({(((((................([[{(((({((((........................))))}))))}]])..--..-.)))))})))
+ target  UGGCGCCGCGCGCGAUCACGCGACAUGACGAACACAUCACAAAGGCUCCCAUCCGGGUGUCCGGUGCGUUCCGAGGA--CG-GGCGGCUUCG
+                                  ****           ^^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1153  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-19
+ Query name: lcl|UniRef50_D8LCS4 Selenoprotein W n=1 Tax=Ectocarpus siliculosus TaxID=2880 RepID=D8LCS4_ECTSI
+ Query range: 36-146  (total 146)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_18 Strand: -
+ Positions:
+ -Exon 1  112202       112537
+
+ Redox box: YES
+
+Query   VDIRSLNASAGMSTTTAGRGEDVAEIEIMYCGGUGYVRFYNRLTPQLEAVFGDRISFIQTEDPGVTGRFEVVLRNT-GELLHSKKTRGQGRCEDPREVQA
+        |  /|  //   /  || /    | / / ||||||| |//  |  //   |||//|     ||| || ||| |     ||/||| |||||/||   |/ |
+Target  VTEKSAGSTTKAAPPTAAKAAAQALVTVQYCGGUGYDRYFYALKAEITNKFGDKVSVEPRRDPGKTGNFEVRLVGAKEELIHSKVTRGQGKCESEAEIDA
+        gagatggtaaaggccaggagggcgcgagcttggtgtgctttgcaggaaaatggagtggcccgcgaagatggccgggaggcactagacgcgatgtgggagg
+        tcaaccgcccacccccccacccacttctaagggggaagatactacatcaatgaatctacggacgacgatatgttgcaaattacatcggagagacacatac
+        cgagtaccccggagcaccaggagcccgggcccaagccccccgcgtgcccgttcggcggcctcgcggcctgcctggcgggccccggcgtgcgtgcgggtct
+                                         *                                                                  
+
+Query   LVDQIQKFLDSS
+        //|/|/  || |
+Target  VLDKIEAHLDGS
+        gcgaaggccggt
+        ttaatacatagc
+        gccgcgacgcgc
+                    
+ Sequence until next stop: 
+AAGTAA
+ K  * 
+
+ Distance CDS-SECIS: 68 ; UGA-SECIS: 302
+
+------- SECIS element -- id:1153 -- grade:B ----
+ Chromosome = scaffold_18 Strand = - Positions = 112133 - 112045
+ Found by:  Infernal (score=10.71) Covels (score=13.49)
+ Stem2 length = 8   Apical loop length = 24   Insertion in stem2 = 0, 0
+ Free Energy = -16.0
+
+         ..(((((((................(((((((((((((((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg---------UuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ((({(((((................([[{(((({((((........................))))}))))}]])..--..-.)))))})))
+ target  UGGCGCCGCGCGCGAUCACGCGACAUGACGAACACAUCACAAAGGCUCCCAUCCGGGUGUCCGGUGCGUUCCGAGGA--CG-GGCGGCUUCG
+                                  ****           ^^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1154  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 1e-19
+ Query name: lcl|UniRef50_D8LCS4 Selenoprotein W n=1 Tax=Ectocarpus siliculosus TaxID=2880 RepID=D8LCS4_ECTSI
+ Query range: 36-146  (total 146)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_19 Strand: -
+ Positions:
+ -Exon 1  112202       112537
+
+ Redox box: YES
+
+Query   VDIRSLNASAGMSTTTAGRGEDVAEIEIMYCGGUGYVRFYNRLTPQLEAVFGDRISFIQTEDPGVTGRFEVVLRNT-GELLHSKKTRGQGRCEDPREVQA
+        |  /|  //   /  || /    | / / ||||||| |//  |  //   |||//|     ||| || ||| |     ||/||| |||||/||   |/ |
+Target  VTEKSAGSTTKAAPPTAAKAAAQALVTVQYCGGUGYDRYFYALKAEITNKFGDKVSVEPRRDPGKTGNFEVRLVGAKEELIHSKVTRGQGKCESEAEIDA
+        gagatggtaaaggccaggagggcgcgagcttggtgtgctttgcaggaaaatggagtggcccgcgaagatggccgggaggcactagacgcgatgtgggagg
+        tcaaccgcccacccccccacccacttctaagggggaagatactacatcaatgaatctacggacgacgatatgttgcaaattacatcggagagacacatac
+        cgagtaccccggagcaccaggagcccgggcccaagccccccgcgtgcccgttcggcggcctcgcggcctgcctggcgggccccggcgtgcgtgcgggtct
+                                         *                                                                  
+
+Query   LVDQIQKFLDSS
+        //|/|/  || |
+Target  VLDKIEAHLDGS
+        gcgaaggccggt
+        ttaatacatagc
+        gccgcgacgcgc
+                    
+ Sequence until next stop: 
+AAGTAA
+ K  * 
+
+ Distance CDS-SECIS: 68 ; UGA-SECIS: 302
+
+------- SECIS element -- id:1154 -- grade:B ----
+ Chromosome = scaffold_19 Strand = - Positions = 112133 - 112045
+ Found by:  Infernal (score=10.71) Covels (score=13.49)
+ Stem2 length = 8   Apical loop length = 24   Insertion in stem2 = 0, 0
+ Free Energy = -16.0
+
+         ..(((((((................(((((((((((((((....................)))))))))))))))........)))))))..
+ model   uucggucaugcg---------UuaAUGAcGgccuggcccuAAAcC-----cuuuuuggggcgggccaggcCuGAUGuuuuuucaugaccggc
+         ((({(((((................([[{(((({((((........................))))}))))}]])..--..-.)))))})))
+ target  UGGCGCCGCGCGCGAUCACGCGACAUGACGAACACAUCACAAAGGCUCCCAUCCGGGUGUCCGGUGCGUUCCGAGGA--CG-GGCGGCUUCG
+                                  ****           ^^^                            ****                 
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1157  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 4e-54
+ Query name: lcl|UniRef50_F0YC47 Selenoprotein (Fragment) n=1 Tax=Aureococcus anophagefferens TaxID=44056 RepID=F0YC47_AURAN
+ Query range: 46-226  (total 229)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_31 Strand: -
+ Positions:
+ -Exon 1  964636       964989
+ -Exon 2  964474       964626
+
+ Redox box: YES
+
+Query   QKVVVEFLRHFGUVFCWERVMQLQRDALPALNAAGVKLLVVGIGSVESGETFAKQTSFSPELLFVDDSELSDAYAAAGTRNTKRDDSGKAVFEGVGSMWS
+        /| || ||||||||||||   ||/|| ||||  /||||/ ||||| |/   ||    |  |/|| |/|/ |/|||| | ||| ||  || /|||| ||||
+Target  EKAVVCFLRHFGUVFCWELATQLRRDVLPALQGSGVKLIAVGIGSAEAASDFAAAADFPAEMLFADESQTSEAYAAVGLRNTGRDAKGKQIFEGVESMWS
+        gagggttccctgtgtttgcgaccccggccgccgtggacagggagaggggtgtgggggtcggactgggtcatggtggggccaagcggagacatggggtatt
+        aacttgttgatggttggatccatggattcctagcgtattctgtggcacccatccccatccatttcaacaccacacctgtgacggacagaattagtactgc
+        ggaggccgtttaagccggcgaggtttccattaagccgcccactccgggctccgtgccttgggccccacggggcctgcggctctcttgcggccgccggggg
+                    *                                                                                       
+
+Query   AATNDAIKERGRDDLNAV <---Intron---> TGNLFNPGPYKPLMPKASTMRRSMEQTMVQGGSFVFDGDSVVAEHYDESSGAHLSIEALLAAA
+          ||/|/| ||||||| / <    9bp     >          ||||||| /    /||/| ||||/ ||||   | || | ||| |  /  // ||
+Target  KRTNEALKARGRDDLNGI                ---------YKPLMPKGA---GAMERTFVQGGTLVFDGSKTVLEHRDFSSGDHADLSDVVKAA
+        acaaggcagcgaggcaga                ---------taccacagg---ggagcatgcggacgtggtaagcgccgtttggcggctgggagg
+        agcaactacgggaatagt                ---------aacttcagc---gctagcttaggctttagcacttaagatccgaacatcattacc
+        gcccggcaccggtcccgc                ---------cggcgcgcc---ccggcccggtgtgattcggcgcgcgtcgagccccggcgggtc
+                                                                                                         
+ Sequence until next stop: 
+ACGCAGAGCTGGCTGCCCGTGGCGGGTGCGGCTTAG
+ T  Q  S  W  L  P  V  A  G  A  A  * 
+
+ Distance CDS-SECIS: 105 ; UGA-SECIS: 573
+
+------- SECIS element -- id:1157 -- grade:B ----
+ Chromosome = scaffold_31 Strand = - Positions = 964368 - 964277
+ Found by:  Infernal (score=10.7) Covels (score=7.76)
+ Stem2 length = 11   Apical loop length = 18   Insertion in stem2 = 2, 0
+ Free Energy = -14.8
+
+         ..(((((((..............((((((((((..(((((..................)))))))))))))))...........)))))))..
+ model   uucggucaugcg-------UuaAUGAcGgccug--gcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuu--u-uuucaugaccggc
+         ..((((({((.............{[[{((((((..(((((..................)))))))))))}]]}.......-..))})))))..
+ target  CUCGGCGUAGCGCGUGCACAACAUGACGUCUGUUUUCGCACAAUCGCAGGCAUUGCGAUGCGGGCAGGCAGAUCUCCAAG-ACUUCCGCCGUG
+                                ****              ^^                          ****                    
+_________________________________.______________________._______________________________________________________________________________
+_|*|_|*|_|*|_|*|_|*|_|*|_|*|_|*| |        newSP         |  secis_index:1158  SeB_exonerate category:END |*|_|*|_|*|_|*|_|*|_|*|_|*|_|*|_
+_________________________________|______________________|_______________________________________________________________________________
+
+ Blastx evalue: 4e-54
+ Query name: lcl|UniRef50_F0YC47 Selenoprotein (Fragment) n=1 Tax=Aureococcus anophagefferens TaxID=44056 RepID=F0YC47_AURAN
+ Query range: 46-226  (total 229)
+
+ Target: /data/Pavlova_pinguis_var_AC96_RCC1539.mainGenome.fasta
+ Chromosome: scaffold_35 Strand: +
+ Positions:
+ -Exon 1  904108       904461
+ -Exon 2  904471       904623
+
+ Redox box: YES
+
+Query   QKVVVEFLRHFGUVFCWERVMQLQRDALPALNAAGVKLLVVGIGSVESGETFAKQTSFSPELLFVDDSELSDAYAAAGTRNTKRDDSGKAVFEGVGSMWS
+        /| || ||||||||||||   ||/|| ||||  /||||/ ||||| |/   ||    |  |/|| |/|/ |/|||| | ||| ||  || /|||| ||||
+Target  EKAVVCFLRHFGUVFCWELATQLRRDVLPALQGSGVKLIAVGIGSAEAASDFAAAADFPAEMLFADESQTSEAYAAVGLRNTGRDAKGKQIFEGVESMWS
+        gagggttccctgtgtttgcgaccccggccgccgtggacagggagaggggtgtgggggtcggactgggtcatggtggggccaagcggagacatggggtatt
+        aacttgttgatggttggatccatggattcctagcgtattctgtggcacccatccccatccatttcaacaccacacctgtgacggacagaattagtactgc
+        ggaggccgtttaagccggcgaggtttccattaagccgcccactccgggctccgtgccttgggccccacggggcctgcggctctcttgcggccgccggggg
+                    *                                                                                       
+
+Query   AATNDAIKERGRDDLNAV <---Intron---> TGNLFNPGPYKPLMPKASTMRRSMEQTMVQGGSFVFDGDSVVAEHYDESSGAHLSIEALLAAA
+          ||/|/| ||||||| / <    9bp     >          ||||||| /    /||/| ||||/ ||||   | || | ||| |  /  // ||
+Target  KRTNEALKARGRDDLNGI                ---------YKPLMPKGA---GAMERTFVQGGTLVFDGSKTVLEHRDFSSGDHADLSDVVKAA
+        acaaggcagcgaggcaga                ---------taccacagg---ggagcatgcggacgtggtaagcgccgtttggcggctgggagg
+        agcaactacgggaatagt                ---------aacttcagc---gctagcttaggctttagcacttaagatccgaacatcattacc
+        gcccggcaccggtcccgc                ---------cggcgcgcc---ccggcccggtgtgattcggcgcgcgtcgagccccggcgggtc
+                                                                                                         
+ Sequence until next stop: 
+ACGCAGAGCTGGCTGCCCGTGGCGGGTGCGGCTTAG
+ T  Q  S  W  L  P  V  A  G  A  A  * 
+
+ Distance CDS-SECIS: 105 ; UGA-SECIS: 573
+
+------- SECIS element -- id:1158 -- grade:B ----
+ Chromosome = scaffold_35 Strand = + Positions = 904729 - 904820
+ Found by:  Infernal (score=10.7) Covels (score=7.76)
+ Stem2 length = 11   Apical loop length = 18   Insertion in stem2 = 2, 0
+ Free Energy = -14.8
+
+         ..(((((((..............((((((((((..(((((..................)))))))))))))))...........)))))))..
+ model   uucggucaugcg-------UuaAUGAcGgccug--gcccuAAAcC---cuuuuuggggcgggccaggcCuGAUGuu--u-uuucaugaccggc
+         ..((((({((.............{[[{((((((..(((((..................)))))))))))}]]}.......-..))})))))..
+ target  CUCGGCGUAGCGCGUGCACAACAUGACGUCUGUUUUCGCACAAUCGCAGGCAUUGCGAUGCGGGCAGGCAGAUCUCCAAG-ACUUCCGCCGUG
+                                ****              ^^                          ****                    
